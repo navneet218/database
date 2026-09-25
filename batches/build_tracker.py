@@ -15,6 +15,9 @@ from openpyxl.worksheet.datavalidation import DataValidation
 import batch02_data as b2
 import emails_data as em
 
+# Verified work emails found via Prospeo (name,email,status,method,note)
+CONTACTS = {r["name"]: r for r in csv.DictReader(open("contacts.csv"))} if __import__("os").path.exists("contacts.csv") else {}
+
 OUT = "../Gliped_Outreach_Tracker.xlsx"
 FONT = "Arial"
 
@@ -165,13 +168,16 @@ LCOLS = [("ID", 7), ("Batch", 7), ("Date added", 11), ("Name", 22), ("Role", 20)
          ("City", 13), ("LinkedIn URL", 30), ("Profile confirmed", 10), ("Trigger", 42), ("Trigger date", 11),
          ("Source", 24), ("Activity pattern", 17), ("Last indexed own post", 12), ("Activity notes", 50),
          ("Score", 7), ("Tier", 9), ("Angle", 45), ("Connection note", 45), ("First DM", 45),
-         ("Teardown focus", 40), ("Notes", 36), ("Email address", 26), ("Email subject", 26), ("Email body", 60)]
+         ("Teardown focus", 40), ("Notes", 36), ("Email address", 26), ("Email subject", 26), ("Email body", 60),
+         ("Email status", 14), ("Email lookup note", 36)]
 header(wsL, LCOLS)
 for r, l in enumerate(leads, 2):
     vals = [l["id"], l["batch"], l["date"], l["name"], l["role"], l["company"], l["region"], l["city"],
             l["url"], "Yes" if l["confirmed"] else "No", l["trigger"], trigger_month(l), l["source"],
             l["pattern"], l["last_post"], l["activity"], l["score"], None, l["angle"], l["connect"],
-            l["dm"], l["teardown"], l["notes"], "", *em.render(l["name"])]
+            l["dm"], l["teardown"], l["notes"], CONTACTS.get(l["name"], {}).get("email", ""), *em.render(l["name"]),
+            {"VERIFIED": "Verified", "NO_MATCH": "Not found"}.get(CONTACTS.get(l["name"], {}).get("status", ""), "Not checked"),
+            " ".join(x for x in [CONTACTS.get(l["name"], {}).get("method", "") and "Prospeo " + CONTACTS[l["name"]]["method"], CONTACTS.get(l["name"], {}).get("note", "")] if x)]
     for c, v in enumerate(vals, 1):
         cell = wsL.cell(row=r, column=c, value=v)
         cell.font, cell.alignment, cell.border = BODY_FONT, WRAP, BORDER
@@ -192,6 +198,8 @@ dvYN = DataValidation(type="list", formula1="=Lists!$C$2:$C$3", allow_blank=True
 wsL.add_data_validation(dvYN)
 dvYN.add(f"J2:J{LAST_L + 200}")
 wsL.conditional_formatting.add(f"J2:J{LAST_L + 200}", CellIsRule(operator="equal", formula=['"No"'], fill=PatternFill("solid", fgColor="F8D7DA")))
+wsL.conditional_formatting.add(f"AA2:AA{LAST_L + 200}", CellIsRule(operator="equal", formula=['"Verified"'], fill=PatternFill("solid", fgColor="D1FADF")))
+wsL.conditional_formatting.add(f"AA2:AA{LAST_L + 200}", CellIsRule(operator="equal", formula=['"Not found"'], fill=PatternFill("solid", fgColor="F8D7DA")))
 wsL.conditional_formatting.add(f"R2:R{LAST_L + 200}", CellIsRule(operator="equal", formula=['"Priority"'], fill=PatternFill("solid", fgColor="D1FADF")))
 
 # ---------- Tracker ----------
