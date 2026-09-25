@@ -1,5 +1,6 @@
 """Render batch02_data.py into the batch 02 markdown doc."""
 import batch02_data as b
+import emails_data as em
 
 def q(text):
     return "\n".join("> " + line for line in text.split("\n"))
@@ -46,6 +47,8 @@ for i, l in enumerate(L, 1):
     w("- **Connection note:**"); w(q(l["connect"]))
     w("- **First DM:**"); w(q(l["dm"]))
     w(f"- **Teardown focus:** {l['teardown']}")
+    subj, body = em.render(l["name"])
+    w(f"- **Cold email:** subject *{subj}*"); w(q(body))
     if l["notes"]: w(f"- **Notes:** {l['notes']}")
     w("")
 open("2026-09-25-batch-02.md", "w").write("\n".join(out))

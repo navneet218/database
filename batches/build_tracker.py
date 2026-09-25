@@ -13,6 +13,7 @@ from openpyxl.utils import get_column_letter
 from openpyxl.worksheet.datavalidation import DataValidation
 
 import batch02_data as b2
+import emails_data as em
 
 OUT = "../Gliped_Outreach_Tracker.xlsx"
 FONT = "Arial"
@@ -122,6 +123,7 @@ rows = [
     ("Date columns", "Type dates as YYYY-MM-DD (for example 2026-09-29). Follow-up due dates calculate themselves."),
     ("FU1 due", "First DM sent + 4 days. Turns red when overdue and FU1 sent is empty."),
     ("FU2 due", "FU1 sent + 6 days. Turns red when overdue and FU2 sent is empty."),
+    ("Email", "Paste the verified work email in Leads (Email address). Tracker shows it and counts Email sent + 5 days for the email follow-up. Send LinkedIn first; email is the second channel for leads who don't accept or reply."),
     ("Days since last touch", "Days since the latest date you've entered in that row."),
     ("Yellow cells", "The only cells you need to edit. Grey or white cells are formulas or reference data."),
     ("", ""),
@@ -136,10 +138,12 @@ for r, (a, bval) in enumerate(rows, 1):
     c = ws.cell(row=r, column=2, value=bval)
     c.font, c.alignment = BODY_FONT, WRAP
     ws.cell(row=r, column=1).alignment = TOP
-    if a in ("Leads", "Tracker", "Dashboard", "Sequence", "Lists", "Status", "Date columns", "FU1 due", "FU2 due",
+    if a in ("Leads", "Tracker", "Dashboard", "Sequence", "Lists", "Status", "Date columns", "FU1 due", "FU2 due", "Email",
              "Days since last touch", "Yellow cells", "Example row (format only)", "Scoring", "Profile confirmed = No", "Activity data"):
         ws.cell(row=r, column=1).font = Font(name=FONT, bold=True, size=10)
-ws["B16"].fill = INPUT_FILL
+for r in range(1, ws.max_row + 1):
+    if ws.cell(row=r, column=1).value == "Yellow cells":
+        ws.cell(row=r, column=2).fill = INPUT_FILL
 
 # ---------- Lists ----------
 wl = wb.create_sheet("Lists")
@@ -161,13 +165,13 @@ LCOLS = [("ID", 7), ("Batch", 7), ("Date added", 11), ("Name", 22), ("Role", 20)
          ("City", 13), ("LinkedIn URL", 30), ("Profile confirmed", 10), ("Trigger", 42), ("Trigger date", 11),
          ("Source", 24), ("Activity pattern", 17), ("Last indexed own post", 12), ("Activity notes", 50),
          ("Score", 7), ("Tier", 9), ("Angle", 45), ("Connection note", 45), ("First DM", 45),
-         ("Teardown focus", 40), ("Notes", 36)]
+         ("Teardown focus", 40), ("Notes", 36), ("Email address", 26), ("Email subject", 26), ("Email body", 60)]
 header(wsL, LCOLS)
 for r, l in enumerate(leads, 2):
     vals = [l["id"], l["batch"], l["date"], l["name"], l["role"], l["company"], l["region"], l["city"],
             l["url"], "Yes" if l["confirmed"] else "No", l["trigger"], trigger_month(l), l["source"],
             l["pattern"], l["last_post"], l["activity"], l["score"], None, l["angle"], l["connect"],
-            l["dm"], l["teardown"], l["notes"]]
+            l["dm"], l["teardown"], l["notes"], "", *em.render(l["name"])]
     for c, v in enumerate(vals, 1):
         cell = wsL.cell(row=r, column=c, value=v)
         cell.font, cell.alignment, cell.border = BODY_FONT, WRAP, BORDER
@@ -179,6 +183,7 @@ for r, l in enumerate(leads, 2):
             cell.font = LINK_FONT
     wsL.cell(row=r, column=10).fill = INPUT_FILL
     wsL.cell(row=r, column=9).fill = INPUT_FILL
+    wsL.cell(row=r, column=24).fill = INPUT_FILL
     wsL.row_dimensions[r].height = 96
 LAST_L = len(leads) + 1
 wsL.freeze_panes = "E2"
@@ -195,10 +200,11 @@ TCOLS = [("ID", 7), ("Name", 22), ("Company", 22), ("Region", 10), ("Tier", 9), 
          ("Profile confirmed", 10), ("Status", 16), ("Warm-up started", 12), ("Connection sent", 12),
          ("Accepted", 12), ("First DM sent", 12), ("FU1 due", 12), ("FU1 sent", 12), ("FU2 due", 12),
          ("FU2 sent", 12), ("Replied", 12), ("Teardown sent", 12), ("Call booked", 12), ("Call held (Y/N)", 10),
-         ("Outcome", 11), ("Next action", 30), ("Next action date", 12), ("Days since last touch", 10), ("Notes", 40)]
+         ("Outcome", 11), ("Next action", 30), ("Next action date", 12), ("Days since last touch", 10), ("Notes", 40),
+         ("Email address", 24), ("Email sent", 12), ("Email FU due", 12), ("Email FU sent", 12)]
 header(wsT, TCOLS)
 lookup = {2: "D", 3: "F", 4: "G", 5: "R", 6: "N", 7: "J"}  # Tracker col -> Leads col
-DATE_COLS = [9, 10, 11, 12, 14, 16, 17, 18, 19, 23]
+DATE_COLS = [9, 10, 11, 12, 14, 16, 17, 18, 19, 23, 27, 29]
 INPUT_COLS = [8] + DATE_COLS + [20, 21, 22, 25]
 for r, l in enumerate(leads, 2):
     wsT.cell(row=r, column=1, value=l["id"])
@@ -207,14 +213,17 @@ for r, l in enumerate(leads, 2):
     wsT.cell(row=r, column=8, value="Nurture" if l["score"] < 40 else "Not started")
     wsT.cell(row=r, column=13, value=f'=IF(L{r}="","",L{r}+4)')
     wsT.cell(row=r, column=15, value=f'=IF(N{r}="","",N{r}+6)')
-    wsT.cell(row=r, column=24, value=f'=IF(MAX(I{r}:L{r},N{r},P{r}:S{r})=0,"",TODAY()-MAX(I{r}:L{r},N{r},P{r}:S{r}))')
+    last = f'MAX(I{r}:L{r},N{r},P{r}:S{r},AA{r},AC{r})'
+    wsT.cell(row=r, column=24, value=f'=IF({last}=0,"",TODAY()-{last})')
+    wsT.cell(row=r, column=26, value=f'=IFERROR(IF(INDEX(Leads!$X:$X,MATCH($A{r},Leads!$A:$A,0))="","",INDEX(Leads!$X:$X,MATCH($A{r},Leads!$A:$A,0))),"")')
+    wsT.cell(row=r, column=28, value=f'=IF(AA{r}="","",AA{r}+5)')
     for c in range(1, len(TCOLS) + 1):
         cell = wsT.cell(row=r, column=c)
         cell.font, cell.border = BODY_FONT, BORDER
         cell.alignment = WRAP if c in (22, 25) else TOP
         if c in INPUT_COLS:
             cell.fill = INPUT_FILL
-        if c in DATE_COLS + [13, 15]:
+        if c in DATE_COLS + [13, 15, 28]:
             cell.number_format = "yyyy-mm-dd"
 LAST_T = len(leads) + 1
 wsT.freeze_panes = "C2"
@@ -234,6 +243,7 @@ for c in DATE_COLS:
     dvD.add(f"{col}2:{col}{LAST_T + 200}")
 red = PatternFill("solid", fgColor="F8D7DA")
 wsT.conditional_formatting.add(f"M2:M{LAST_T + 200}", FormulaRule(formula=[f'AND(M2<>"",N2="",M2<TODAY())'], fill=red))
+wsT.conditional_formatting.add(f"AB2:AB{LAST_T + 200}", FormulaRule(formula=[f'AND(AB2<>"",AC2="",AB2<TODAY())'], fill=red))
 wsT.conditional_formatting.add(f"O2:O{LAST_T + 200}", FormulaRule(formula=[f'AND(O2<>"",P2="",O2<TODAY())'], fill=red))
 wsT.conditional_formatting.add(f"H2:H{LAST_T + 200}", FormulaRule(formula=['OR(H2="Call booked",H2="Call held",H2="Won")'], fill=PatternFill("solid", fgColor="D1FADF")))
 
@@ -318,6 +328,7 @@ seq = [
     ("+3 to 4 days, no reply", "Follow-up 1: offer the free 3-point profile teardown (text below)."),
     ("+5 to 6 days after that", "Follow-up 2: last nudge that leaves the door open (text below)."),
     ("Yes to teardown", "Send a 2 to 3 minute Loom within 24 hours covering the teardown focus points, then ask for a 20-minute call."),
+    ("Email (second channel)", "If the connection isn't accepted within 5 days, or there's no reply after the first DM, send the cold email from the Leads tab to their verified work email. One email follow-up 5 days later (reply on the same thread): \"Bumping this in case it got buried, [Name]. Happy to send the 3-point teardown instead of a call if that's easier.\""),
     ("", ""),
     ("Follow-up 1", "No worries if this is a busy stretch, [Name].\n\nI put together 3 quick notes on your profile.\nThings I'd change so people who hear about [Company] and look you up land on something that sells it.\n\nWant me to send them over? Takes 2 minutes to watch."),
     ("Follow-up 2", "Last one from me, [Name].\n\nIf LinkedIn moves up the list after the raise settles, I'm around.\nEither way, good luck with [the next milestone]."),

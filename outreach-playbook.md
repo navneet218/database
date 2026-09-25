@@ -236,6 +236,14 @@ Senior leader eyeing the next move (be careful and indirect):
 ### Breakup
 > I'll stop filling your inbox, [Name]. If LinkedIn moves up the list later this year, I'm easy to find. Either way, I'll keep reading your posts on [topic].
 
+### Cold email (second channel)
+
+Every lead also gets a customised cold email, used when the LinkedIn connection isn't accepted within 5 days or the first DM gets no reply. Rules are in `.claude/skills/gliped-lead-batch/SKILL.md`, and all current emails are in `batches/cold-emails.md`.
+
+- Subject: 2 to 5 words, specific to them.
+- Body: 40 to 90 words. Trigger hook, the gap, one line on Gliped, then one question as the CTA.
+- Sign-off with an opt-out line. Verified work email only. One follow-up after 5 days.
+
 ---
 
 ## 8. Running the discovery call so it leads to a close
