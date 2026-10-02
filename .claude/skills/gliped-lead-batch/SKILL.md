@@ -22,7 +22,7 @@ Read `outreach-playbook.md` (scoring, signals, sequence) and look at the last ba
 
 ## Steps
 
-1. **Source.** Search recent funding and leadership news (last 90 days) per region: Inc42, Entrackr, StartupTalky, YourStory (India); EU-Startups, Tech.eu, UKTN, FinSMEs (UK); BetaKit, FinSMEs Canada (Canada); FinSMEs, TechCrunch (US). Split evenly across the four regions unless told otherwise. Skip anyone already in the CSV.
+1. **Source.** Search recent funding and leadership news (last 90 days) per region: Inc42, Entrackr, StartupTalky, YourStory (India); EU-Startups, Tech.eu, UKTN, FinSMEs (UK); BetaKit, FinSMEs Canada (Canada); FinSMEs, TechCrunch (US); Wamda, Arab News startups, Enterprise AM, Entarabi, Disrupt Africa (MENA). Split evenly across the regions Prabal asks for (default India, UK, Canada, US; MENA when asked). Skip India on Indian public holidays if told. Skip anyone already in the CSV.
 2. **Read the posting pattern.** Search `site:linkedin.com/posts <name> <company>`. Decode each post's date from its activity ID: `datetime.utcfromtimestamp((activity_id >> 22) / 1000)`. Separate the person's own posts from posts about them. Label the pattern: Milestone-only, Went quiet, Company-news voice, Company-page voice, Emerging writer, Already consistent, Near-silent, Research voice, or Not indexed.
 3. **Confirm identity.** If the name is common or no own posts match the company, set `confirmed=False` and use a LinkedIn people-search URL. Never guess a profile.
 4. **Score** with the playbook model: trigger (max 30) + gap (max 20) + fit (10) + active in last 30 days (10). Trigger older than 90 days means nurture.

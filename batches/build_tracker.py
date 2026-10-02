@@ -1,4 +1,4 @@
-"""Build Gliped_Outreach_Tracker.xlsx from batch 01 (markdown + CSV) and batch 02 (batch02_data.py).
+"""Build Gliped_Outreach_Tracker.xlsx from batch 01 (markdown + CSV), batch 02 (batch02_data.py) and batch 03 (batch03_data.py).
 
 Run from the batches/ folder:  python3 build_tracker.py
 """
@@ -13,6 +13,7 @@ from openpyxl.utils import get_column_letter
 from openpyxl.worksheet.datavalidation import DataValidation
 
 import batch02_data as b2
+import batch03_data as b3
 import emails_data as em
 
 # Verified work emails found via Prospeo (name,email,status,method,note)
@@ -23,6 +24,7 @@ FONT = "Arial"
 
 PATTERN_LABELS = {"milestone-only": "Milestone-only", "went-quiet": "Went quiet", "company-news-voice": "Company-news voice",
                   "emerging-writer": "Emerging writer", "already-consistent": "Already consistent"}
+REGIONS = ["India", "UK", "Canada", "US", "MENA"]
 
 # ---------- batch 01: parse lead cards from the markdown, join with CSV ----------
 def parse_batch01():
@@ -59,18 +61,18 @@ def parse_batch01():
     return out
 
 
-def batch02():
+def from_module(mod):
     out = []
-    for l in b2.LEADS:
+    for l in mod.LEADS:
         d = dict(l)
-        d["batch"], d["date"] = b2.BATCH, b2.DATE
+        d["batch"], d["date"] = mod.BATCH, mod.DATE
         out.append(d)
     return out
 
 
 def trigger_month(l):
     """Batch 01 CSV holds trigger text, not dates; pull 'Mon YYYY' if present."""
-    if l["batch"] == "02":
+    if l["batch"] != "01":
         return l["trigger_date"]
     m = re.search(r"(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\w* (20\d\d)", l["trigger_date"])
     if m:
@@ -79,7 +81,7 @@ def trigger_month(l):
     return ""
 
 
-leads = parse_batch01() + batch02()
+leads = parse_batch01() + from_module(b2) + from_module(b3)
 for i, l in enumerate(leads, 1):
     l["id"] = f"G{i:03d}"
 
@@ -176,7 +178,7 @@ for r, l in enumerate(leads, 2):
             l["url"], "Yes" if l["confirmed"] else "No", l["trigger"], trigger_month(l), l["source"],
             l["pattern"], l["last_post"], l["activity"], l["score"], None, l["angle"], l["connect"],
             l["dm"], l["teardown"], l["notes"], CONTACTS.get(l["name"], {}).get("email", ""), *em.render(l["name"]),
-            {"VERIFIED": "Verified", "NO_MATCH": "Not found"}.get(CONTACTS.get(l["name"], {}).get("status", ""), "Not checked"),
+            {"VERIFIED": "Verified", "NO_MATCH": "Not found", "PENDING": "Pending"}.get(CONTACTS.get(l["name"], {}).get("status", ""), "Not checked"),
             " ".join(x for x in [CONTACTS.get(l["name"], {}).get("method", "") and "Prospeo " + CONTACTS[l["name"]]["method"], CONTACTS.get(l["name"], {}).get("note", "")] if x)]
     for c, v in enumerate(vals, 1):
         cell = wsL.cell(row=r, column=c, value=v)
@@ -318,7 +320,7 @@ def breakdown(start_row, title, key_col_letter, keys):
             c.number_format, c.font = "0.0%", BODY_FONT
     return start_row + len(keys) + 3
 
-nr = breakdown(r0 + len(funnel) + 4, "Leads by region", "D", ["India", "UK", "Canada", "US"])
+nr = breakdown(r0 + len(funnel) + 4, "Leads by region", "D", REGIONS)
 patterns = sorted({l["pattern"] for l in leads})
 nr = breakdown(nr, "Leads by activity pattern", "F", patterns)
 breakdown(nr, "Leads by tier", "E", ["Priority", "Warm", "Nurture"])
@@ -341,10 +343,10 @@ seq = [
     ("Follow-up 1", "No worries if this is a busy stretch, [Name].\n\nI put together 3 quick notes on your profile.\nThings I'd change so people who hear about [Company] and look you up land on something that sells it.\n\nWant me to send them over? Takes 2 minutes to watch."),
     ("Follow-up 2", "Last one from me, [Name].\n\nIf LinkedIn moves up the list after the raise settles, I'm around.\nEither way, good luck with [the next milestone]."),
     ("", ""),
-    ("Send times", "India 9 to 11am IST. UK 8 to 10am UK time. Canada and US East 8 to 10am ET. US West 8 to 10am PT. Tuesday to Thursday."),
+    ("Send times", "India 9 to 11am IST. UK 8 to 10am UK time. Canada and US East 8 to 10am ET. US West 8 to 10am PT. MENA (Gulf) 9 to 11am Gulf time, Sunday to Thursday in Saudi, Monday to Friday in the UAE; Egypt 10am to noon Cairo time. Tuesday to Thursday elsewhere."),
     ("Limits", "Keep connection requests around 15 to 25 a day. Send by hand, no automation."),
     ("Before each send", "30 seconds on their recent activity: still in role, last post date, any agency or ghostwriter already visible. Fill any [bracketed] line yourself after reading the post."),
-    ("Email rules", "Canada: CASL (relevant to role, unsubscribe). UK: PECR and UK GDPR. US: CAN-SPAM. India: DPDP Act."),
+    ("Email rules", "Canada: CASL (relevant to role, unsubscribe). UK: PECR and UK GDPR. US: CAN-SPAM. India: DPDP Act. UAE: PDPL. Saudi Arabia: PDPL. Egypt: PDPL. Keep it relevant to their role and honour any opt-out."),
 ]
 for r, (a, bval) in enumerate(seq, 1):
     ca = wq.cell(row=r, column=1, value=a)

@@ -78,7 +78,7 @@ def footer(canvas, doc):
 leads = load()
 found = sum(1 for l in leads if l["Email status"] == "Verified")
 notfound = sum(1 for l in leads if l["Email status"] == "Not found")
-pending = sum(1 for l in leads if l["Email status"] == "Not checked")
+pending = sum(1 for l in leads if l["Email status"] in ("Not checked", "Pending"))
 
 doc = SimpleDocTemplate(OUT, pagesize=landscape(A4), leftMargin=12 * mm, rightMargin=12 * mm,
                         topMargin=12 * mm, bottomMargin=13 * mm, title="Gliped lead pack",
@@ -88,7 +88,7 @@ story = []
 
 # ---------- cover / summary ----------
 story += [P("Gliped lead pack", "title"),
-          P(f"{len(leads)} founders and CEOs across India, the UK, Canada and the US. Batches 01 and 02. "
+          P(f"{len(leads)} founders and CEOs across India, the UK, Canada, the US and MENA. Batches 01 to 03. "
             f"Generated {dt.date.today():%d %b %Y}.", "sub"),
           Spacer(1, 8)]
 
@@ -106,7 +106,7 @@ t.setStyle(TableStyle([("FONT", (0, 0), (-1, 0), "DVB", 8), ("FONT", (0, 1), (-1
 story += [t, Spacer(1, 10)]
 
 region_rows = [["Region", "Leads", "Verified emails", "Priority"]]
-for reg in ["India", "UK", "Canada", "US"]:
+for reg in ["India", "UK", "Canada", "US", "MENA"]:
     rl = [l for l in leads if l["Region"] == reg]
     region_rows.append([reg, len(rl), sum(1 for l in rl if l["Email status"] == "Verified"),
                         sum(1 for l in rl if l["Tier"] == "Priority")])
@@ -156,7 +156,7 @@ for i, l in enumerate(leads, 1):
                  colWidths=[W * 0.7, W * 0.3])
     head.setStyle(TableStyle([("LINEBELOW", (0, 0), (-1, 0), 0.8, NAVY), ("VALIGN", (0, 0), (-1, -1), "BOTTOM"),
                               ("ALIGN", (1, 0), (1, 0), "RIGHT"), ("LEFTPADDING", (0, 0), (-1, -1), 0)]))
-    email_line = l["Email address"] or {"Not found": "No verified email found", "Not checked": "Pending lookup"}.get(l["Email status"], "")
+    email_line = l["Email address"] or {"Not found": "No verified email found", "Not checked": "Pending lookup", "Pending": "Pending lookup"}.get(l["Email status"], "")
     left = [P("Contact", "label"), P(f'Email: {email_line}\nLinkedIn: {l["LinkedIn URL"]}', "small"), Spacer(1, 3),
             P("Trigger", "label"), P(l["Trigger"], "small"), Spacer(1, 3),
             P("LinkedIn activity", "label"), P(f'{l["Activity pattern"]}. {l["Activity notes"] or ""}', "small"), Spacer(1, 3),
