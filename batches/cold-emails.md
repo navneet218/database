@@ -2171,3 +2171,365 @@ Follow-up, 5 days later on the same thread:
 > Gliped | LinkedIn personal branding for founders
 > 
 > Not relevant? Reply "no" and I won't follow up.
+
+## Batch 04
+
+### Pallav Bihani, Boldfit (India)
+**Subject:** Boldfit, beyond D2C
+
+> Hi Pallav,
+> 
+> Congrats on the Rs 400 Cr Series B.
+> 
+> Moving from D2C into retail and manufacturing means retail partners, landlords and senior hires will look you up first. Two Forbes 30 Under 30 lists are a strong start, but they only sit in your headline.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Mayank Banerjee, Even Healthcare (India)
+**Subject:** Even's model, explained
+
+> Hi Mayank,
+> 
+> Congrats on the $50M Series B with Khosla.
+> 
+> Managed care is still new to most Indian patients and doctors. A founder who explains how Even works, in plain words, earns trust faster than ads do.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Vardhan Kapoor, Firstwork (India)
+**Subject:** Firstwork's Series A
+
+> Hi Vardhan,
+> 
+> Congrats on the $15M Series A with Earlybird.
+> 
+> Your years at Deel and Remitly are exactly what HR leaders want to hear from a hiring-tech founder. I couldn't find that story on your LinkedIn yet.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Priyadarshi Mohapatra, CureBay (India)
+**Subject:** CureBay's next states
+
+> Hi Priyadarshi,
+> 
+> Congrats on the pre-Series C with IvyCap.
+> 
+> You've used LinkedIn for CureBay milestones like the Bihar launch. Going from 250 to 800 clinics is the moment for a steadier voice that partners and state officials follow.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Pankaj Garg, DailyObjects (India)
+**Subject:** DailyObjects, in your words
+
+> Hi Pankaj,
+> 
+> Congrats on the Rs 332 Cr Series C.
+> 
+> Others tag you in DailyObjects news, but your own feed is quiet. Fourteen years of building a design brand, now going offline, is a founder story people want to read.
+> 
+> We build founder brands on LinkedIn around stories like this.
+> 
+> Worth a 15-minute call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Ajay Lakhotia, StockGro (India)
+**Subject:** Before the IPO
+
+> Hi Ajay,
+> 
+> Congrats on the IPO filing.
+> 
+> Retail investors read the founder before they read the prospectus. You already have TEDx talks and podcasts to draw from; they just aren't working on LinkedIn yet.
+> 
+> We build founder brands on LinkedIn, steadily and with care around disclosure rules.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Sudhanshu Bhatia, Matiks (India)
+**Subject:** Matiks goes to the US
+
+> Hi Sudhanshu,
+> 
+> Congrats on the $10M round with General Catalyst.
+> 
+> A mental math record holder building a puzzle game is the best story Matiks has, and it only sits in your headline. As you launch in the US, that story can do a lot of the work.
+> 
+> We build founder brands on LinkedIn.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Sophie Smith, Nabta Health (MENA)
+**Subject:** Your talks, on LinkedIn
+
+> Hi Sophie,
+> 
+> Congrats on the second close with Phoenix Venture Partners.
+> 
+> You speak on women's health at events, and HR and insurance leaders are exactly who Nabta now sells to. Most of that thinking isn't on your LinkedIn.
+> 
+> We turn founders' talks into a steady LinkedIn presence, without eating your week.
+> 
+> Worth a 15-minute call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Mounir Nakhla, MNT-Halan (MENA)
+**Subject:** Your voice, after the listing
+
+> Hi Mounir,
+> 
+> Congrats on the listing on the Egyptian Exchange.
+> 
+> MNT-Halan now has thousands of retail shareholders, and they follow the founder. Your posts so far are mostly events and partners.
+> 
+> We work alongside IR and comms teams to build founder voices on LinkedIn.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Mohamed Gaber, Velents (MENA)
+**Subject:** 29K followers, quiet
+
+> Hi Mohamed,
+> 
+> Congrats on Velents' move into Bahrain with stc.
+> 
+> You have about 29,000 followers, and I couldn't find recent posts. That audience could help with government buyers and the sales team you're hiring.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Emad Daghreri, Autobia (MENA)
+**Subject:** Autobia's Series A
+
+> Hi Emad,
+> 
+> Congrats on the $12M Series A with Artal.
+> 
+> Auto parts suppliers and retailers deal with people they trust. A founder voice on LinkedIn makes those conversations easier as Autobia grows across Saudi.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Shubham Poddar, Amaani (AÏZA) (MENA)
+**Subject:** AÏZA in Saudi
+
+> Hi Shubham,
+> 
+> Congrats on the Series A with BECO and the Saudi launch.
+> 
+> Ninefold revenue growth is a story retail partners and other founders want to hear. Shared from the founder, it also helps with hiring in new markets.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Mishal Bin Slimah, Vrtx (MENA)
+**Subject:** Vrtx's founder story
+
+> Hi Mishal,
+> 
+> Congrats on the pre-seed and the SAMA approval.
+> 
+> Your Tweeq years are a strong hook for banks and partners looking at Vrtx. I couldn't find that story on LinkedIn yet.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown of your profile?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Abdulrahman Al-Abdulkarim, INVE (MENA)
+**Subject:** INVE's founder voice
+
+> Hi Abdulrahman,
+> 
+> Congrats on the pre-seed with Outliers.
+> 
+> Hosts and venues pick event tech they trust, and that trust starts with the founder. A few posts showing events done well would bring them to INVE.
+> 
+> We build founder brands on LinkedIn.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Chetan Reddy, Confido Health (US)
+**Subject:** More of those demo DMs
+
+> Hi Chetan,
+> 
+> Congrats on the Series A extension with Z47.
+> 
+> Your headline already asks people to DM for a demo, so LinkedIn is a sales channel for you. A steady posting rhythm aimed at medical groups and their PE owners would bring more of those DMs.
+> 
+> We handle positioning, writing and cadence for founders.
+> 
+> Worth a 15-minute call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Amaresh Tripathy, AuxoAI (US)
+**Subject:** Your enterprise AI view
+
+> Hi Amaresh,
+> 
+> Congrats on the $20.7M Series A with NTTVC.
+> 
+> You speak often on enterprise AI, from the Conference Board to MachineCon. Most of that thinking isn't on LinkedIn, where the buyers you want spend time.
+> 
+> We turn founders' talks into a steady LinkedIn presence.
+> 
+> Worth a 15-minute call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Josiah Meyer, Healthleap (US)
+**Subject:** Healthleap on LinkedIn
+
+> Hi Josiah,
+> 
+> Congrats on the $38M with Sequoia, First Round and Hummingbird.
+> 
+> You share on X, but hospital leaders and clinicians mostly read LinkedIn. The same voice there would help Healthleap reach the next 50 hospitals.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### David Spirk, Warhound (US)
+**Subject:** Warhound's narrative
+
+> Hi David,
+> 
+> Congrats on the seed and the launch of Warhound.
+> 
+> Most of what's written about Warhound right now comes from others. A measured voice from the CEO helps set the narrative with defence buyers and future hires.
+> 
+> We build founder brands on LinkedIn, carefully and in a measured tone.
+> 
+> Worth a 15-minute call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### William Cielen, Hilt (US)
+**Subject:** Hilt and CISOs
+
+> Hi William,
+> 
+> Congrats on the $4.2M seed with Array.
+> 
+> CISOs check the founder before they take a demo. A few clear posts on insider threats would make Hilt easier to trust.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Rachel Gannon, Offe Market (US)
+**Subject:** Offe Market's story
+
+> Hi Rachel,
+> 
+> Congrats on the $3M seed.
+> 
+> You were a buyer at ban.do and Macy's, which is exactly what brands with extra stock want to hear before they sell to you. That story isn't on your LinkedIn yet.
+> 
+> We build founder brands on LinkedIn.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
