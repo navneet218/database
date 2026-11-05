@@ -3255,3 +3255,257 @@ Follow-up, 5 days later on the same thread:
 > Gliped | LinkedIn personal branding for founders
 > 
 > Not relevant? Reply "no" and I won't follow up.
+
+## Batch 06
+
+### Saurabh Pandey, EloElo Group (India)
+**Subject:** EloElo's next chapter
+
+> Hi Saurabh,
+> 
+> Congrats on the $80M Series C with Hornbill and NBCUniversal.
+> 
+> A round like this brings media partners, creators and senior hires to your profile. The founder story behind EloElo isn't easy to find on LinkedIn yet.
+> 
+> We work alongside brand teams to build founder voices on LinkedIn.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Runal Dahiwade, Peppermint Robotics (India)
+**Subject:** Peppermint's next markets
+
+> Hi Runal,
+> 
+> Congrats on the Rs 100 Cr round with pi Ventures and Crane.
+> 
+> Facility and warehouse buyers in new countries look up the founder before they agree to a pilot. Your Carkhana-to-Peppermint story would help, and it isn't on your LinkedIn yet.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Ritukar Vijay, Ottonomy (India)
+**Subject:** Ottonomy, in your words
+
+> Hi Ritukar,
+> 
+> Congrats on the Rs 40.6 Cr post-seed.
+> 
+> YourStory covered Ottonomy's robots in September. Airport, hospital and campus buyers read LinkedIn, and that story should come from you there too.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Vishal Gupta, OneStack (India)
+**Subject:** OneStack and bank leaders
+
+> Hi Vishal,
+> 
+> Congrats on the Rs 12.5 Cr round with Shepherd's Hill.
+> 
+> Your headline says speaker, and the bank leaders OneStack sells to read LinkedIn. Your CFO years at Nando's give you a credible view on bank costs, and little of it is posted.
+> 
+> We turn founders' talks into a steady LinkedIn presence.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Om Misra, Spill Games (India)
+**Subject:** Spill's Series A
+
+> Hi Om,
+> 
+> Congrats on the $10.5M Series A with Elevation.
+> 
+> As Spill grows the team, engineers and designers will look up the founders first. A few posts on how you build games would help, and I couldn't find them on LinkedIn.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Faisal Toukan, Ziina (MENA)
+**Subject:** Ziina's new licences
+
+> Hi Faisal,
+> 
+> Congrats on the CBUAE retail payments and exchange approvals.
+> 
+> With international transfers coming to the app, merchants and partners will look up the founder. You've done interviews on Ziina's growth; most of that isn't on your LinkedIn.
+> 
+> We work alongside comms teams to build founder voices on LinkedIn.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Robert Marcus, ALPHA10X (MENA)
+**Subject:** ALPHA10X in Doha
+
+> Hi Robert,
+> 
+> Congrats on the new round and the move to Doha.
+> 
+> Allocators and sovereign funds in Qatar will look up the founder before they take a meeting. A clear point of view on AI in private markets, posted by you, would help.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Himanshu Mishra, Terraxy (MENA)
+**Subject:** Terraxy's science, in plain words
+
+> Hi Himanshu,
+> 
+> Congrats on Terraxy's $3M seed.
+> 
+> Greening and landscaping buyers want to trust the science before they buy. Your KAUST research could do that on LinkedIn, written for buyers instead of journals.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Pablo Charron, Ayan (MENA)
+**Subject:** Ayan beyond MENA
+
+> Hi Pablo,
+> 
+> Congrats on the AED 2.2M pre-seed.
+> 
+> As Ayan expands beyond MENA, brand leaders will look up the founder first. A founder voice on how AI describes brands would make that first look easy.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Dan Lee, Nooks (US)
+**Subject:** Nooks and your own feed
+
+> Hi Dan,
+> 
+> Congrats on the new round.
+> 
+> Sales leaders are your buyers and they spend their day on LinkedIn. Your headline says you're hiring; a steady founder voice helps with both.
+> 
+> We work alongside marketing teams to build founder voices on LinkedIn.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Alex Panait, Lazarus AI (US)
+**Subject:** Lazarus AI's $43M
+
+> Hi Alex,
+> 
+> Congrats on the $43M round.
+> 
+> You stepped into the CEO role about a year ago. Insurers and government buyers will now look you up, and your LinkedIn doesn't tell that story yet.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Michael Ragheb, Shackleton AI (US)
+**Subject:** Shackleton's origin story
+
+> Hi Michael,
+> 
+> Congrats on the $5M seed.
+> 
+> Shackleton was built inside a construction company. Contractors and owners want to hear that from you, and it isn't on your LinkedIn yet.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Yash Patil, Applied Compute (US)
+**Subject:** Applied Compute's founder voice
+
+> Hi Yash,
+> 
+> Congrats on the momentum at Applied Compute.
+> 
+> Enterprises choosing where to run their models want to hear from the founder. Your OpenAI years give you a view people follow, and little of it is on LinkedIn.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Lakshay Chauhan, Finpilot (US)
+**Subject:** Finpilot's Series A
+
+> Hi Lakshay,
+> 
+> Congrats on the $10M Series A.
+> 
+> Funds and analysts check the founder before they trust finance AI with their research. A few clear posts on how analysts work would help Finpilot, and I couldn't find them on your LinkedIn.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.

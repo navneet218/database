@@ -1,4 +1,4 @@
-"""Build Gliped_Outreach_Tracker.xlsx from batch 01 (markdown + CSV), batch 02 (batch02_data.py), batch 03 (batch03_data.py), batch 04 (batch04_data.py) and batch 05 (batch05_data.py).
+"""Build Gliped_Outreach_Tracker.xlsx from batch 01 (markdown + CSV), batch 02 (batch02_data.py), batch 03 (batch03_data.py), batch 04 (batch04_data.py), batch 05 (batch05_data.py) and batch 06 (batch06_data.py).
 
 Run from the batches/ folder:  python3 build_tracker.py
 """
@@ -16,6 +16,7 @@ import batch02_data as b2
 import batch03_data as b3
 import batch04_data as b4
 import batch05_data as b5
+import batch06_data as b6
 import emails_data as em
 
 # Verified work emails found via Prospeo (name,email,status,method,note)
@@ -83,7 +84,7 @@ def trigger_month(l):
     return ""
 
 
-leads = parse_batch01() + from_module(b2) + from_module(b3) + from_module(b4) + from_module(b5)
+leads = parse_batch01() + from_module(b2) + from_module(b3) + from_module(b4) + from_module(b5) + from_module(b6)
 for i, l in enumerate(leads, 1):
     l["id"] = f"G{i:03d}"
 
