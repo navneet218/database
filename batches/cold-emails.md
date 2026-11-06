@@ -3509,3 +3509,203 @@ Follow-up, 5 days later on the same thread:
 > Gliped | LinkedIn personal branding for founders
 > 
 > Not relevant? Reply "no" and I won't follow up.
+
+## Batch 07
+
+### Chiran Chiranjeevi Phanindra, Cosmoserve Space (India)
+**Subject:** Cosmoserve's seed round
+
+> Hi Chiran,
+> 
+> Congrats on the $6M seed with Rebright Partners.
+> 
+> Your headline calls you a science communicator, and your ISRO years give you plenty to say. Satellite operators and the engineers you're hiring would follow that on LinkedIn.
+> 
+> We help founders turn expertise into a steady LinkedIn presence.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Apporv Garg, altM (India)
+**Subject:** altM's Series A
+
+> Hi Apporv,
+> 
+> Congrats on the $10.3M Series A with Rainmatter and Mela Ventures.
+> 
+> Industrial buyers switching from petrochemicals want to trust the people behind the material. Your Tesla-to-altM story would help, and I couldn't find it on LinkedIn.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Kartik Sunagar, Venomics AI (India)
+**Subject:** Venomics AI, in plain words
+
+> Hi Kartik,
+> 
+> Congrats on Venomics AI's pre-seed with Speciale and South Park Commons.
+> 
+> Pharma partners and the scientists you're hiring want to understand the science before they commit. Your IISc work could do that on LinkedIn, written for them.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Shashank Shekhar Sharma, Solgram (India)
+**Subject:** Solgram after Zepto
+
+> Hi Shashank,
+> 
+> Congrats on the pre-seed with DSG and Saama.
+> 
+> Your Zepto years are the story suppliers and early hires want before they commit to Solgram. It isn't easy to find on your LinkedIn yet.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Saleh Al-Tamami, Mamun (MENA)
+**Subject:** Mamun in Hong Kong
+
+> Hi Saleh,
+> 
+> Congrats on Mamun's move into Hong Kong.
+> 
+> New bank partners and investors in Asia will look up the founder first. You've spoken about SME trade finance on podcasts; most of that isn't on your LinkedIn.
+> 
+> We turn founders' interviews into a steady LinkedIn presence.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Ahmed Elsayed, JustAd (MENA)
+**Subject:** JustAd's next markets
+
+> Hi Ahmed,
+> 
+> Congrats on the $5M round.
+> 
+> As JustAd enters new markets, business owners and ad platform partners will look up the founder before they sign. A steady founder voice would make that easy.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Hossam Jaber, Project Suppliers (MENA)
+**Subject:** Project Suppliers' founder voice
+
+> Hi Hossam,
+> 
+> Congrats on the SAR 3.75M pre-seed.
+> 
+> Contractors and suppliers check the founder before they move their payments to a new platform. A few posts on construction cash flow would help, and I couldn't find them on your LinkedIn.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Badr Al-Malluh, Gaia (MENA)
+**Subject:** Gaia and Saudi enterprises
+
+> Hi Badr,
+> 
+> Congrats on Gaia's $1.5M pre-seed.
+> 
+> Saudi enterprises choosing an AI platform want to trust the founder with their data. A clear voice on sovereign AI, from you, would help Gaia stand out.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Kumar Senthil, firmly (US)
+**Subject:** firmly's Series A
+
+> Hi Kumar,
+> 
+> Congrats on the $15M Series A.
+> 
+> Merchants and AI platforms are still working out agentic checkout. You ran eCommerce products at Samsung, and your LinkedIn headline just says 'Founder, CEO'.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Paul Monasterio, Kalepa (US)
+**Subject:** Kalepa's Series B
+
+> Hi Paul,
+> 
+> Congrats on the $75M Series B with Updata Partners.
+> 
+> Carriers and MGAs will look up the founder after a round like this, and so will the 20+ people you're hiring. Your LinkedIn doesn't tell Kalepa's story yet.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Anish Agarwal, Traversal (US)
+**Subject:** Traversal's Series B
+
+> Hi Anish,
+> 
+> Congrats on the $120M Series B.
+> 
+> Engineering leaders want to hear from the person behind the Causal Search Engine. You teach at Columbia and speak at events; little of that reaches LinkedIn.
+> 
+> We help founders turn their research and talks into a steady LinkedIn presence.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.

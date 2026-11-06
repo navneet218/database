@@ -88,7 +88,7 @@ story = []
 
 # ---------- cover / summary ----------
 story += [P("Gliped lead pack", "title"),
-          P(f"{len(leads)} founders and CEOs across India, the UK, Canada, the US and MENA. Batches 01 to 06. "
+          P(f"{len(leads)} founders and CEOs across India, the UK, Canada, the US and MENA. Batches 01 to 07. "
             f"Generated {dt.date.today():%d %b %Y}.", "sub"),
           Spacer(1, 8)]
 
