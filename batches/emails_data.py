@@ -430,6 +430,21 @@ EMAILS = {
         "Hi Paul,\n\nCongrats on the $75M Series B with Updata Partners.\n\nCarriers and MGAs will look up the founder after a round like this, and so will the 20+ people you're hiring. Your LinkedIn doesn't tell Kalepa's story yet.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?"),
     'Anish Agarwal': ("Traversal's Series B",
         'Hi Anish,\n\nCongrats on the $120M Series B.\n\nEngineering leaders want to hear from the person behind the Causal Search Engine. You teach at Columbia and speak at events; little of that reaches LinkedIn.\n\nWe help founders turn their research and talks into a steady LinkedIn presence.\n\nOpen to a quick call?'),
+    # ---------------- Batch 08 (9 Nov 2026) ----------------
+    'Rajit Arya': ("Dispatch Network's pre-seed",
+        "Hi Rajit,\n\nCongrats on the Rs 5 Cr pre-seed with Antler India.\n\nYou're hiring a founding AI architect, and strong engineers look up the founder before they reply. Your headline just says CEO, and the rider earnings story isn't there yet.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?"),
+    'Tushar Sharma': ("OBSESS's founder voice",
+        'Hi Tushar,\n\nCongrats on the angel round for OBSESS.\n\nGyms, trainers and venues will look up the founder before they list on a new platform. A steady founder voice would help OBSESS grow its network faster.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?'),
+    'Hany Fekry': ("enza's next stage",
+        "Hi Hany,\n\nCongrats on enza's new funding round.\n\nBank and fintech leaders across Africa will look up the founder as enza grows. Your Network International years give you a view on payments few people have, and little of it is on LinkedIn.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nOpen to a quick call?"),
+    'Ibrahim Manna': ("BRKZ's Series B",
+        "Hi Ibrahim,\n\nCongrats on the $31M raise and the Series B with Wa'ed and 500 Global.\n\nContractors, suppliers and future investors all look up the founder before they commit. BRKZ's growth story should be on your LinkedIn, told by you.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?"),
+    'Eyal Cohen': ("Humble Robotics' Series A",
+        "Hi Eyal,\n\nCongrats on the $51M Series A with Obvious Ventures.\n\nYour headline says you're hiring, and engineers will look up the founder first. Apple, Uber, Waabi and a SparkAI exit is a story that pulls them in, and it isn't on your feed yet.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?"),
+    'John Henry Harris': ("Harbinger's next markets",
+        'Hi John,\n\nCongrats on the $240M Series D.\n\nMoving into energy storage and defense brings new buyers and policymakers who will look up the founder. With 65 open roles, candidates will too.\n\nWe work alongside comms teams to build founder voices on LinkedIn.\n\nOpen to a quick call?'),
+    'Burkay Gur': ("fal's founder voice",
+        'Hi Burkay,\n\nCongrats on the $1.3B Series F.\n\nYou told Bloomberg demand outran your compute this summer. Developers and enterprise buyers want more of that view from the founder, and your LinkedIn headline just says co-founder.\n\nWe work alongside marketing teams to build founder voices on LinkedIn.\n\nOpen to a quick call?'),
 }
 
 

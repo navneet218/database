@@ -3709,3 +3709,131 @@ Follow-up, 5 days later on the same thread:
 > Gliped | LinkedIn personal branding for founders
 > 
 > Not relevant? Reply "no" and I won't follow up.
+
+## Batch 08
+
+### Rajit Arya, Dispatch Network (India)
+**Subject:** Dispatch Network's pre-seed
+
+> Hi Rajit,
+> 
+> Congrats on the Rs 5 Cr pre-seed with Antler India.
+> 
+> You're hiring a founding AI architect, and strong engineers look up the founder before they reply. Your headline just says CEO, and the rider earnings story isn't there yet.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Tushar Sharma, OBSESS (India)
+**Subject:** OBSESS's founder voice
+
+> Hi Tushar,
+> 
+> Congrats on the angel round for OBSESS.
+> 
+> Gyms, trainers and venues will look up the founder before they list on a new platform. A steady founder voice would help OBSESS grow its network faster.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Hany Fekry, enza (MENA)
+**Subject:** enza's next stage
+
+> Hi Hany,
+> 
+> Congrats on enza's new funding round.
+> 
+> Bank and fintech leaders across Africa will look up the founder as enza grows. Your Network International years give you a view on payments few people have, and little of it is on LinkedIn.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Ibrahim Manna, BRKZ (MENA)
+**Subject:** BRKZ's Series B
+
+> Hi Ibrahim,
+> 
+> Congrats on the $31M raise and the Series B with Wa'ed and 500 Global.
+> 
+> Contractors, suppliers and future investors all look up the founder before they commit. BRKZ's growth story should be on your LinkedIn, told by you.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Eyal Cohen, Humble Robotics (US)
+**Subject:** Humble Robotics' Series A
+
+> Hi Eyal,
+> 
+> Congrats on the $51M Series A with Obvious Ventures.
+> 
+> Your headline says you're hiring, and engineers will look up the founder first. Apple, Uber, Waabi and a SparkAI exit is a story that pulls them in, and it isn't on your feed yet.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### John Henry Harris, Harbinger (US)
+**Subject:** Harbinger's next markets
+
+> Hi John,
+> 
+> Congrats on the $240M Series D.
+> 
+> Moving into energy storage and defense brings new buyers and policymakers who will look up the founder. With 65 open roles, candidates will too.
+> 
+> We work alongside comms teams to build founder voices on LinkedIn.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Burkay Gur, fal (US)
+**Subject:** fal's founder voice
+
+> Hi Burkay,
+> 
+> Congrats on the $1.3B Series F.
+> 
+> You told Bloomberg demand outran your compute this summer. Developers and enterprise buyers want more of that view from the founder, and your LinkedIn headline just says co-founder.
+> 
+> We work alongside marketing teams to build founder voices on LinkedIn.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
