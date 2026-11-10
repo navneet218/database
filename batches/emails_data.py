@@ -445,6 +445,15 @@ EMAILS = {
         'Hi John,\n\nCongrats on the $240M Series D.\n\nMoving into energy storage and defense brings new buyers and policymakers who will look up the founder. With 65 open roles, candidates will too.\n\nWe work alongside comms teams to build founder voices on LinkedIn.\n\nOpen to a quick call?'),
     'Burkay Gur': ("fal's founder voice",
         'Hi Burkay,\n\nCongrats on the $1.3B Series F.\n\nYou told Bloomberg demand outran your compute this summer. Developers and enterprise buyers want more of that view from the founder, and your LinkedIn headline just says co-founder.\n\nWe work alongside marketing teams to build founder voices on LinkedIn.\n\nOpen to a quick call?'),
+    # ---------------- Batch 09 (10 Nov 2026) ----------------
+    'Mark Rus': ("Delix's Series C",
+        "Hi Mark,\n\nCongrats on the $100M Series C.\n\nPsychedelic-derived medicine still carries stigma, and patients, partners and future investors look to the CEO to explain it. Your LinkedIn doesn't carry that story yet.\n\nWe build founder voices on LinkedIn, carefully and within the rules biotech companies work under.\n\nWorth a 15-minute call next week?"),
+    'Yehuda Niv': ("Spines' new round",
+        "Hi Yehuda,\n\nCongrats on the $64M round with Zeev Ventures.\n\nAuthors choose a publisher they trust, and you've run publishing businesses since 2013. That story, and where Spines is heading, isn't on your LinkedIn yet.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?"),
+    'Daniel Hunter': ('Nyquis and utilities',
+        "Hi Daniel,\n\nCongrats on the $6.3M seed.\n\nUtility leaders check the founder before they put new sensors on their lines. A few posts on what you found in Otero County would help, and I couldn't find them on LinkedIn.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?"),
+    'Brock Thompson': ("Ridero's pre-seed",
+        'Hi Brock,\n\nCongrats on the $2.7M pre-seed.\n\nLenders and dealers look up the founders before they try a new finance platform. A steady founder voice would make that first look easy.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?'),
 }
 
 

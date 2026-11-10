@@ -3837,3 +3837,77 @@ Follow-up, 5 days later on the same thread:
 > Gliped | LinkedIn personal branding for founders
 > 
 > Not relevant? Reply "no" and I won't follow up.
+
+## Batch 09
+
+### Mark Rus, Delix Therapeutics (US)
+**Subject:** Delix's Series C
+
+> Hi Mark,
+> 
+> Congrats on the $100M Series C.
+> 
+> Psychedelic-derived medicine still carries stigma, and patients, partners and future investors look to the CEO to explain it. Your LinkedIn doesn't carry that story yet.
+> 
+> We build founder voices on LinkedIn, carefully and within the rules biotech companies work under.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Yehuda Niv, Spines (US)
+**Subject:** Spines' new round
+
+> Hi Yehuda,
+> 
+> Congrats on the $64M round with Zeev Ventures.
+> 
+> Authors choose a publisher they trust, and you've run publishing businesses since 2013. That story, and where Spines is heading, isn't on your LinkedIn yet.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Daniel Hunter, Nyquis (US)
+**Subject:** Nyquis and utilities
+
+> Hi Daniel,
+> 
+> Congrats on the $6.3M seed.
+> 
+> Utility leaders check the founder before they put new sensors on their lines. A few posts on what you found in Otero County would help, and I couldn't find them on LinkedIn.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Brock Thompson, Ridero (US)
+**Subject:** Ridero's pre-seed
+
+> Hi Brock,
+> 
+> Congrats on the $2.7M pre-seed.
+> 
+> Lenders and dealers look up the founders before they try a new finance platform. A steady founder voice would make that first look easy.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
