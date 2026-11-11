@@ -3911,3 +3911,59 @@ Follow-up, 5 days later on the same thread:
 > Gliped | LinkedIn personal branding for founders
 > 
 > Not relevant? Reply "no" and I won't follow up.
+
+## Batch 10
+
+### Ujjwal Rao, Froncort.AI (India)
+**Subject:** Froncort and Google.org
+
+> Hi Ujjwal,
+> 
+> Congrats on the $2.3M from Google.org.
+> 
+> Health agencies and regulatory teams want to trust the person behind the AI. Your headline already has a voice; your posts could carry it to those buyers.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Henson Orser, Soter Insure (MENA)
+**Subject:** Soter's new backers
+
+> Hi Henson,
+> 
+> Congrats on the investment from Standard Chartered and SBI Group.
+> 
+> Institutions buying digital asset cover want to know who stands behind the policy. Your Nomura and Komainu years tell that story, and your LinkedIn headline just says Founder & CEO.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Cameron McCord, Nominal (US)
+**Subject:** Nominal's Series C
+
+> Hi Cameron,
+> 
+> Congrats on the $240M Series C.
+> 
+> With more than 80 open roles and defense buyers watching, people will look up the founder. Submarine officer to Anduril to Nominal is a story that isn't on your LinkedIn yet.
+> 
+> We work alongside marketing teams to build founder voices on LinkedIn.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.

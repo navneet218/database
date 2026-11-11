@@ -454,6 +454,13 @@ EMAILS = {
         "Hi Daniel,\n\nCongrats on the $6.3M seed.\n\nUtility leaders check the founder before they put new sensors on their lines. A few posts on what you found in Otero County would help, and I couldn't find them on LinkedIn.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?"),
     'Brock Thompson': ("Ridero's pre-seed",
         'Hi Brock,\n\nCongrats on the $2.7M pre-seed.\n\nLenders and dealers look up the founders before they try a new finance platform. A steady founder voice would make that first look easy.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?'),
+    # ---------------- Batch 10 (11 Nov 2026) ----------------
+    'Ujjwal Rao': ('Froncort and Google.org',
+        'Hi Ujjwal,\n\nCongrats on the $2.3M from Google.org.\n\nHealth agencies and regulatory teams want to trust the person behind the AI. Your headline already has a voice; your posts could carry it to those buyers.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?'),
+    'Henson Orser': ("Soter's new backers",
+        'Hi Henson,\n\nCongrats on the investment from Standard Chartered and SBI Group.\n\nInstitutions buying digital asset cover want to know who stands behind the policy. Your Nomura and Komainu years tell that story, and your LinkedIn headline just says Founder & CEO.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nOpen to a quick call?'),
+    'Cameron McCord': ("Nominal's Series C",
+        "Hi Cameron,\n\nCongrats on the $240M Series C.\n\nWith more than 80 open roles and defense buyers watching, people will look up the founder. Submarine officer to Anduril to Nominal is a story that isn't on your LinkedIn yet.\n\nWe work alongside marketing teams to build founder voices on LinkedIn.\n\nOpen to a quick call?"),
 }
 
 
