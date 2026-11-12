@@ -461,6 +461,15 @@ EMAILS = {
         'Hi Henson,\n\nCongrats on the investment from Standard Chartered and SBI Group.\n\nInstitutions buying digital asset cover want to know who stands behind the policy. Your Nomura and Komainu years tell that story, and your LinkedIn headline just says Founder & CEO.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nOpen to a quick call?'),
     'Cameron McCord': ("Nominal's Series C",
         "Hi Cameron,\n\nCongrats on the $240M Series C.\n\nWith more than 80 open roles and defense buyers watching, people will look up the founder. Submarine officer to Anduril to Nominal is a story that isn't on your LinkedIn yet.\n\nWe work alongside marketing teams to build founder voices on LinkedIn.\n\nOpen to a quick call?"),
+    # ---------------- Batch 11 (12 Nov 2026) ----------------
+    'Rayhan Aleem': ('Alpha-preneurs on LinkedIn',
+        "Hi Rayhan,\n\nCongrats on Tax Star's $1.75M seed.\n\nYou already host Alpha-preneurs and know UAE and Saudi tax inside out. SME owners and CFOs read LinkedIn, and each episode could become a week of posts there.\n\nWe turn founders' podcasts and talks into a steady LinkedIn presence.\n\nWant the 3-point teardown instead?"),
+    'Daragh Murphy': ("Imprint's new round",
+        'Hi Daragh,\n\nCongrats on the new round with Khosla Ventures.\n\nBrand CMOs and CFOs look up the founder before they launch a card with you. Your McKinsey years give you a clear view on loyalty, and your LinkedIn headline just says CEO.\n\nWe work alongside marketing teams to build founder voices on LinkedIn.\n\nOpen to a quick call?'),
+    'Hagai Shapira': ("Daylight's new round",
+        'Hi Hagai,\n\nCongrats on the $80M round led by Goldman Sachs Alternatives.\n\nCISOs look up the founder before they let anyone run their security operations. Your Torq years give you a view on AI and analysts working together, and little of it is on LinkedIn.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
+    'Thomas Fulton': ("Garage's Series B",
+        'Hi Thomas,\n\nCongrats on the $41M Series B with Invus.\n\nFleet managers and dealers look up the founder before they trust a new marketplace. A steady founder voice on LinkedIn would help Garage reach more of them.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nOpen to a quick call?'),
 }
 
 

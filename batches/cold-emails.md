@@ -3967,3 +3967,77 @@ Follow-up, 5 days later on the same thread:
 > Gliped | LinkedIn personal branding for founders
 > 
 > Not relevant? Reply "no" and I won't follow up.
+
+## Batch 11
+
+### Rayhan Aleem, Tax Star (MENA)
+**Subject:** Alpha-preneurs on LinkedIn
+
+> Hi Rayhan,
+> 
+> Congrats on Tax Star's $1.75M seed.
+> 
+> You already host Alpha-preneurs and know UAE and Saudi tax inside out. SME owners and CFOs read LinkedIn, and each episode could become a week of posts there.
+> 
+> We turn founders' podcasts and talks into a steady LinkedIn presence.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Daragh Murphy, Imprint (US)
+**Subject:** Imprint's new round
+
+> Hi Daragh,
+> 
+> Congrats on the new round with Khosla Ventures.
+> 
+> Brand CMOs and CFOs look up the founder before they launch a card with you. Your McKinsey years give you a clear view on loyalty, and your LinkedIn headline just says CEO.
+> 
+> We work alongside marketing teams to build founder voices on LinkedIn.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Hagai Shapira, Daylight Security (US)
+**Subject:** Daylight's new round
+
+> Hi Hagai,
+> 
+> Congrats on the $80M round led by Goldman Sachs Alternatives.
+> 
+> CISOs look up the founder before they let anyone run their security operations. Your Torq years give you a view on AI and analysts working together, and little of it is on LinkedIn.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Thomas Fulton, Garage (US)
+**Subject:** Garage's Series B
+
+> Hi Thomas,
+> 
+> Congrats on the $41M Series B with Invus.
+> 
+> Fleet managers and dealers look up the founder before they trust a new marketplace. A steady founder voice on LinkedIn would help Garage reach more of them.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
