@@ -470,6 +470,13 @@ EMAILS = {
         'Hi Hagai,\n\nCongrats on the $80M round led by Goldman Sachs Alternatives.\n\nCISOs look up the founder before they let anyone run their security operations. Your Torq years give you a view on AI and analysts working together, and little of it is on LinkedIn.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
     'Thomas Fulton': ("Garage's Series B",
         'Hi Thomas,\n\nCongrats on the $41M Series B with Invus.\n\nFleet managers and dealers look up the founder before they trust a new marketplace. A steady founder voice on LinkedIn would help Garage reach more of them.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nOpen to a quick call?'),
+    # ---------------- Batch 12 (13 Nov 2026) ----------------
+    'V S Shridhar': ("Greenjoules' Series B",
+        "Hi Shridhar,\n\nCongrats on the Series B with Amazon's funds and Rainmatter.\n\nFactories switching from fossil fuels want to trust the people behind the supply. The agri waste to fuel story is a strong one, and I couldn't find it on your LinkedIn.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nOpen to a quick call?"),
+    'Kabir Moorjani': ("Hundo's first round",
+        'Hi Kabir,\n\nCongrats on the Rs 7.5 Cr round with Titan Capital.\n\nA chef who started a delivery pizza brand in 2020 and just raised from Titan has a story people want. Partners and future hires would follow it on LinkedIn.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?'),
+    'Jimmy Hatzell': ("Hatz's new round",
+        "Hi Jimmy,\n\nCongrats on the $24M round.\n\nMSP owners buy from people they already know in the channel, and your headline says you're hiring engineers. A steady founder voice on LinkedIn would help with both.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?"),
 }
 
 

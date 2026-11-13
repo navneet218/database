@@ -4041,3 +4041,59 @@ Follow-up, 5 days later on the same thread:
 > Gliped | LinkedIn personal branding for founders
 > 
 > Not relevant? Reply "no" and I won't follow up.
+
+## Batch 12
+
+### V S Shridhar, Greenjoules (India)
+**Subject:** Greenjoules' Series B
+
+> Hi Shridhar,
+> 
+> Congrats on the Series B with Amazon's funds and Rainmatter.
+> 
+> Factories switching from fossil fuels want to trust the people behind the supply. The agri waste to fuel story is a strong one, and I couldn't find it on your LinkedIn.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Kabir Moorjani, Hundo Pizza (India)
+**Subject:** Hundo's first round
+
+> Hi Kabir,
+> 
+> Congrats on the Rs 7.5 Cr round with Titan Capital.
+> 
+> A chef who started a delivery pizza brand in 2020 and just raised from Titan has a story people want. Partners and future hires would follow it on LinkedIn.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Jimmy Hatzell, Hatz AI (US)
+**Subject:** Hatz's new round
+
+> Hi Jimmy,
+> 
+> Congrats on the $24M round.
+> 
+> MSP owners buy from people they already know in the channel, and your headline says you're hiring engineers. A steady founder voice on LinkedIn would help with both.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
