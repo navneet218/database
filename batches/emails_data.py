@@ -477,6 +477,13 @@ EMAILS = {
         'Hi Kabir,\n\nCongrats on the Rs 7.5 Cr round with Titan Capital.\n\nA chef who started a delivery pizza brand in 2020 and just raised from Titan has a story people want. Partners and future hires would follow it on LinkedIn.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?'),
     'Jimmy Hatzell': ("Hatz's new round",
         "Hi Jimmy,\n\nCongrats on the $24M round.\n\nMSP owners buy from people they already know in the channel, and your headline says you're hiring engineers. A steady founder voice on LinkedIn would help with both.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?"),
+    # ---------------- Batch 13 (16 Nov 2026) ----------------
+    'Abhay Deshpande': ('Recykal and Sachin Tendulkar',
+        'Hi Abhay,\n\nCongrats on Sachin Tendulkar joining Recykal as an investor.\n\nNews like this brings brand partners, recyclers and future hires to your profile. A steady founder voice would turn that attention into conversations.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nOpen to a quick call?'),
+    'Uttam Tiwari': ("Desible's seed-plus",
+        "Hi Uttam,\n\nCongrats on the Rs 32 Cr seed-plus with Prime Venture Partners.\n\nBanks and insurers hand customer calls only to vendors they trust. You've already talked about Desible on the Prime podcast; LinkedIn is where their buyers would see it.\n\nWe turn founders' interviews into a steady LinkedIn presence.\n\nWorth a 15-minute call next week?"),
+    'Mahmoud Bouchelif': ("WafrChain's launch",
+        "Hi Mahmoud,\n\nCongrats on the pre-seed and the WafrChain launch.\n\nSukuk issuers and banks want to trust the people behind a new settlement rail. A few plain posts on how on-chain sukuk works would help, and I couldn't find them on LinkedIn.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?"),
 }
 
 

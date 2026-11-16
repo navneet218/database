@@ -4097,3 +4097,59 @@ Follow-up, 5 days later on the same thread:
 > Gliped | LinkedIn personal branding for founders
 > 
 > Not relevant? Reply "no" and I won't follow up.
+
+## Batch 13
+
+### Abhay Deshpande, Recykal (India)
+**Subject:** Recykal and Sachin Tendulkar
+
+> Hi Abhay,
+> 
+> Congrats on Sachin Tendulkar joining Recykal as an investor.
+> 
+> News like this brings brand partners, recyclers and future hires to your profile. A steady founder voice would turn that attention into conversations.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Uttam Tiwari, Desible.ai (India)
+**Subject:** Desible's seed-plus
+
+> Hi Uttam,
+> 
+> Congrats on the Rs 32 Cr seed-plus with Prime Venture Partners.
+> 
+> Banks and insurers hand customer calls only to vendors they trust. You've already talked about Desible on the Prime podcast; LinkedIn is where their buyers would see it.
+> 
+> We turn founders' interviews into a steady LinkedIn presence.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Mahmoud Bouchelif, Wafr (MENA)
+**Subject:** WafrChain's launch
+
+> Hi Mahmoud,
+> 
+> Congrats on the pre-seed and the WafrChain launch.
+> 
+> Sukuk issuers and banks want to trust the people behind a new settlement rail. A few plain posts on how on-chain sukuk works would help, and I couldn't find them on LinkedIn.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
