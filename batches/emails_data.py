@@ -492,7 +492,7 @@ EMAILS = {
     'David Bell': ("Remedy's Series B",
         "Hi David,\n\nCongrats on the Series B led by DCVC.\n\nRemedy's world-first procedures mostly reach people through the company page. Hospitals and clinicians tend to trust a surgeon's own account more, and that voice isn't on LinkedIn yet.\n\nWe help founders tell their story on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?"),
     'Nirbhay Handa': ("Multipolitan's app launch",
-        "Hi Nirbhay,\n\nCongrats on the $2M round ahead of the December app launch.\n\nYou've told the borderless living story well in interviews. Putting it on LinkedIn every week before launch would bring users and private clients to the app.\n\nWe turn founders' interviews into a steady LinkedIn presence.\n\nWorth a 15-minute call next week?"),
+        "Hi Nirbhay,\n\nCongrats on the $2M round ahead of the December app launch.\n\nYou've talked about borderless living in interviews with The Peak and A+ Singapore. Putting it on LinkedIn every week before launch would bring users and private clients to the app.\n\nWe turn founders' interviews into a steady LinkedIn presence.\n\nWorth a 15-minute call next week?"),
     'Sari AlSaedi': ("Lambda's move to Steam",
         "Hi Sari,\n\nCongrats on the $1.3M round led by Merak Capital.\n\nStarting on Roblox from a living room in Mecca is a story players, partners and future hires remember. I couldn't find it told on LinkedIn.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?"),
     'Osama Abdelhadi': ("Mawsool's pre-seed",

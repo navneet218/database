@@ -4217,7 +4217,7 @@ Follow-up, 5 days later on the same thread:
 > 
 > Congrats on the $2M round ahead of the December app launch.
 > 
-> You've told the borderless living story well in interviews. Putting it on LinkedIn every week before launch would bring users and private clients to the app.
+> You've talked about borderless living in interviews with The Peak and A+ Singapore. Putting it on LinkedIn every week before launch would bring users and private clients to the app.
 > 
 > We turn founders' interviews into a steady LinkedIn presence.
 > 
