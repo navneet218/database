@@ -484,6 +484,19 @@ EMAILS = {
         "Hi Uttam,\n\nCongrats on the Rs 32 Cr seed-plus with Prime Venture Partners.\n\nBanks and insurers hand customer calls only to vendors they trust. You've already talked about Desible on the Prime podcast; LinkedIn is where their buyers would see it.\n\nWe turn founders' interviews into a steady LinkedIn presence.\n\nWorth a 15-minute call next week?"),
     'Mahmoud Bouchelif': ("WafrChain's launch",
         "Hi Mahmoud,\n\nCongrats on the pre-seed and the WafrChain launch.\n\nSukuk issuers and banks want to trust the people behind a new settlement rail. A few plain posts on how on-chain sukuk works would help, and I couldn't find them on LinkedIn.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?"),
+    # ---------------- Batch 14 (17 Nov 2026) ----------------
+    'Jonathan Kolstad': ("Knit's Series A",
+        "Hi Jonathan,\n\nCongrats on the $35M Series A with NEA, six months after the seed.\n\nHealth systems will want to know the thinking behind Knit before they trust it with clinical decisions. Your research is the best explanation, and I couldn't find you sharing it on LinkedIn.\n\nWe help founders turn their expertise into a steady LinkedIn presence.\n\nWorth a 15-minute call next week?"),
+    'Aaron Brown': ('Lumbra beyond defence',
+        "Hi Aaron,\n\nCongrats on the $25M Series A with Point72 and Ansa.\n\nBanks and other regulated buyers won't know Lumbra's track record from the intelligence world. A founder voice that explains governed AI agents in their terms would close that gap.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?"),
+    'David Bell': ("Remedy's Series B",
+        "Hi David,\n\nCongrats on the Series B led by DCVC.\n\nRemedy's world-first procedures mostly reach people through the company page. Hospitals and clinicians tend to trust a surgeon's own account more, and that voice isn't on LinkedIn yet.\n\nWe help founders tell their story on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?"),
+    'Nirbhay Handa': ("Multipolitan's app launch",
+        "Hi Nirbhay,\n\nCongrats on the $2M round ahead of the December app launch.\n\nYou've told the borderless living story well in interviews. Putting it on LinkedIn every week before launch would bring users and private clients to the app.\n\nWe turn founders' interviews into a steady LinkedIn presence.\n\nWorth a 15-minute call next week?"),
+    'Sari AlSaedi': ("Lambda's move to Steam",
+        "Hi Sari,\n\nCongrats on the $1.3M round led by Merak Capital.\n\nStarting on Roblox from a living room in Mecca is a story players, partners and future hires remember. I couldn't find it told on LinkedIn.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?"),
+    'Osama Abdelhadi': ("Mawsool's pre-seed",
+        "Hi Osama,\n\nCongrats on closing Mawsool's pre-seed.\n\nYour buyers are sales leaders who spend their day on LinkedIn. A founder sharing what Mawsool sees in regional pipelines would reach them directly.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?"),
 }
 
 

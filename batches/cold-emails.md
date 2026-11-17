@@ -4153,3 +4153,113 @@ Follow-up, 5 days later on the same thread:
 > Gliped | LinkedIn personal branding for founders
 > 
 > Not relevant? Reply "no" and I won't follow up.
+
+## Batch 14
+
+### Jonathan Kolstad, Knit Health (US)
+**Subject:** Knit's Series A
+
+> Hi Jonathan,
+> 
+> Congrats on the $35M Series A with NEA, six months after the seed.
+> 
+> Health systems will want to know the thinking behind Knit before they trust it with clinical decisions. Your research is the best explanation, and I couldn't find you sharing it on LinkedIn.
+> 
+> We help founders turn their expertise into a steady LinkedIn presence.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Aaron Brown, Lumbra (US)
+**Subject:** Lumbra beyond defence
+
+> Hi Aaron,
+> 
+> Congrats on the $25M Series A with Point72 and Ansa.
+> 
+> Banks and other regulated buyers won't know Lumbra's track record from the intelligence world. A founder voice that explains governed AI agents in their terms would close that gap.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### David Bell, Remedy Robotics (US)
+**Subject:** Remedy's Series B
+
+> Hi David,
+> 
+> Congrats on the Series B led by DCVC.
+> 
+> Remedy's world-first procedures mostly reach people through the company page. Hospitals and clinicians tend to trust a surgeon's own account more, and that voice isn't on LinkedIn yet.
+> 
+> We help founders tell their story on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Nirbhay Handa, Multipolitan (MENA)
+**Subject:** Multipolitan's app launch
+
+> Hi Nirbhay,
+> 
+> Congrats on the $2M round ahead of the December app launch.
+> 
+> You've told the borderless living story well in interviews. Putting it on LinkedIn every week before launch would bring users and private clients to the app.
+> 
+> We turn founders' interviews into a steady LinkedIn presence.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Sari AlSaedi, Lambda Studios (MENA)
+**Subject:** Lambda's move to Steam
+
+> Hi Sari,
+> 
+> Congrats on the $1.3M round led by Merak Capital.
+> 
+> Starting on Roblox from a living room in Mecca is a story players, partners and future hires remember. I couldn't find it told on LinkedIn.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Osama Abdelhadi, Mawsool (MENA)
+**Subject:** Mawsool's pre-seed
+
+> Hi Osama,
+> 
+> Congrats on closing Mawsool's pre-seed.
+> 
+> Your buyers are sales leaders who spend their day on LinkedIn. A founder sharing what Mawsool sees in regional pipelines would reach them directly.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
