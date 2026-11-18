@@ -497,6 +497,15 @@ EMAILS = {
         "Hi Sari,\n\nCongrats on the $1.3M round led by Merak Capital.\n\nStarting on Roblox from a living room in Mecca is a story players, partners and future hires remember. I couldn't find it told on LinkedIn.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?"),
     'Osama Abdelhadi': ("Mawsool's pre-seed",
         "Hi Osama,\n\nCongrats on closing Mawsool's pre-seed.\n\nYour buyers are sales leaders who spend their day on LinkedIn. A founder sharing what Mawsool sees in regional pipelines would reach them directly.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?"),
+    # ---------------- Batch 15 (18 Nov 2026) ----------------
+    'Anand Venkatraman': ('Dreamteam out of stealth',
+        "Hi Anand,\n\nCongrats on the $53M and on bringing Dreamteam out of stealth.\n\nSales leaders choosing a CRM tend to follow founders they already hear from. Dreamteam's story is new to them, and LinkedIn is where they'd hear it.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?"),
+    'Vrinda Kapoor': ("Bharat Semi's seed round",
+        'Hi Vrinda,\n\nCongrats on the $24M seed with Info Edge and South Park Commons.\n\nWith production planned for 2027, engineers, customers and future investors will judge Bharat Semi by what they hear from its founders until then. LinkedIn is the easiest place to keep them close.\n\nWe help founders turn their expertise into a steady LinkedIn presence.\n\nWorth a 15-minute call next week?'),
+    'Hugh Zabriskie': ('Valkryn out of stealth',
+        'Hi Hugh,\n\nCongrats on coming out of stealth with the a16z seed.\n\nDefence buyers and engineers will be looking Valkryn up for the first time. A founder explaining why autonomous systems need real testing would give them a reason to follow.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
+    'Ruchir Baronia': ("Bevado's new name",
+        'Hi Ruchir,\n\nCongrats on the $10M seed with RET Ventures and the move to Bevado.\n\nProperty managers now have to learn a new name, and your LinkedIn headline still says Frontdesk. A founder voice that tells the Bevado story would help the rebrand land.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
 }
 
 

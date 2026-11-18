@@ -4263,3 +4263,77 @@ Follow-up, 5 days later on the same thread:
 > Gliped | LinkedIn personal branding for founders
 > 
 > Not relevant? Reply "no" and I won't follow up.
+
+## Batch 15
+
+### Anand Venkatraman, Dreamteam (India)
+**Subject:** Dreamteam out of stealth
+
+> Hi Anand,
+> 
+> Congrats on the $53M and on bringing Dreamteam out of stealth.
+> 
+> Sales leaders choosing a CRM tend to follow founders they already hear from. Dreamteam's story is new to them, and LinkedIn is where they'd hear it.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Vrinda Kapoor, Bharat Semi (India)
+**Subject:** Bharat Semi's seed round
+
+> Hi Vrinda,
+> 
+> Congrats on the $24M seed with Info Edge and South Park Commons.
+> 
+> With production planned for 2027, engineers, customers and future investors will judge Bharat Semi by what they hear from its founders until then. LinkedIn is the easiest place to keep them close.
+> 
+> We help founders turn their expertise into a steady LinkedIn presence.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Hugh Zabriskie, Valkryn (US)
+**Subject:** Valkryn out of stealth
+
+> Hi Hugh,
+> 
+> Congrats on coming out of stealth with the a16z seed.
+> 
+> Defence buyers and engineers will be looking Valkryn up for the first time. A founder explaining why autonomous systems need real testing would give them a reason to follow.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Ruchir Baronia, Bevado (US)
+**Subject:** Bevado's new name
+
+> Hi Ruchir,
+> 
+> Congrats on the $10M seed with RET Ventures and the move to Bevado.
+> 
+> Property managers now have to learn a new name, and your LinkedIn headline still says Frontdesk. A founder voice that tells the Bevado story would help the rebrand land.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
