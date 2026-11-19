@@ -4337,3 +4337,59 @@ Follow-up, 5 days later on the same thread:
 > Gliped | LinkedIn personal branding for founders
 > 
 > Not relevant? Reply "no" and I won't follow up.
+
+## Batch 16
+
+### Ishank Gupta, Humyn Labs (India)
+**Subject:** Humyn Labs' Series A
+
+> Hi Ishank,
+> 
+> Congrats on the Series A led by Accel.
+> 
+> Robotics and physical AI teams will judge Humyn Labs on how much they trust its data. A founder explaining how that data is collected and checked would build that trust before the sales call.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Viral Chhajer, Recove (India)
+**Subject:** Recove's new round
+
+> Hi Viral,
+> 
+> Congrats on the Rs 56.25 Cr round.
+> 
+> Recyclers and brands buy from suppliers they trust on quality. A founder voice explaining how Recove brings traceability to scrap would earn that trust before the first order.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Alex Manavi, Speakeasy (US)
+**Subject:** Speakeasy's Series A
+
+> Hi Alex,
+> 
+> Congrats on the $18.8M Series A, four months after the last round.
+> 
+> Venue operators, festivals and engineers will all be checking out Speakeasy now. You started out running events, and that story would make a strong founder voice on LinkedIn.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.

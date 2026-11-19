@@ -506,6 +506,13 @@ EMAILS = {
         'Hi Hugh,\n\nCongrats on coming out of stealth with the a16z seed.\n\nDefence buyers and engineers will be looking Valkryn up for the first time. A founder explaining why autonomous systems need real testing would give them a reason to follow.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
     'Ruchir Baronia': ("Bevado's new name",
         'Hi Ruchir,\n\nCongrats on the $10M seed with RET Ventures and the move to Bevado.\n\nProperty managers now have to learn a new name, and your LinkedIn headline still says Frontdesk. A founder voice that tells the Bevado story would help the rebrand land.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
+    # ---------------- Batch 16 (19 Nov 2026) ----------------
+    'Ishank Gupta': ("Humyn Labs' Series A",
+        'Hi Ishank,\n\nCongrats on the Series A led by Accel.\n\nRobotics and physical AI teams will judge Humyn Labs on how much they trust its data. A founder explaining how that data is collected and checked would build that trust before the sales call.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
+    'Viral Chhajer': ("Recove's new round",
+        'Hi Viral,\n\nCongrats on the Rs 56.25 Cr round.\n\nRecyclers and brands buy from suppliers they trust on quality. A founder voice explaining how Recove brings traceability to scrap would earn that trust before the first order.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nOpen to a quick call?'),
+    'Alex Manavi': ("Speakeasy's Series A",
+        'Hi Alex,\n\nCongrats on the $18.8M Series A, four months after the last round.\n\nVenue operators, festivals and engineers will all be checking out Speakeasy now. You started out running events, and that story would make a strong founder voice on LinkedIn.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
 }
 
 
