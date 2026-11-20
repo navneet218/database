@@ -4401,11 +4401,11 @@ Follow-up, 5 days later on the same thread:
 
 > Hi Dhruv,
 > 
-> Congrats on the $18M round with Left Lane, Titan and BIG Capital.
+> Congrats on the new round with Left Lane, Titan and BIG Capital.
 > 
 > Shark Tank put Boba Bhai in front of a huge audience. Keeping that attention through steady posts, while running 90 outlets, is where most founders stall.
 > 
-> We run founder LinkedIn presence end to end, so it keeps going without taking your week.
+> We build founder brands on LinkedIn, from positioning to weekly posts.
 > 
 > Worth a 15-minute call next week?
 > 
