@@ -513,6 +513,13 @@ EMAILS = {
         'Hi Viral,\n\nCongrats on the Rs 56.25 Cr round.\n\nRecyclers and brands buy from suppliers they trust on quality. A founder voice explaining how Recove brings traceability to scrap would earn that trust before the first order.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nOpen to a quick call?'),
     'Alex Manavi': ("Speakeasy's Series A",
         'Hi Alex,\n\nCongrats on the $18.8M Series A, four months after the last round.\n\nVenue operators, festivals and engineers will all be checking out Speakeasy now. You started out running events, and that story would make a strong founder voice on LinkedIn.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
+    # ---------------- Batch 17 (20 Nov 2026) ----------------
+    'Dhruv Kohli': ('Boba Bhai after Shark Tank',
+        'Hi Dhruv,\n\nCongrats on the $18M round with Left Lane, Titan and BIG Capital.\n\nShark Tank put Boba Bhai in front of a huge audience. Keeping that attention through steady posts, while running 90 outlets, is where most founders stall.\n\nWe run founder LinkedIn presence end to end, so it keeps going without taking your week.\n\nWorth a 15-minute call next week?'),
+    'Apoorva Kumar': ("Disseqt's new round",
+        'Hi Apoorva,\n\nCongrats on the $8M round led by Gresham House.\n\nEnterprises choosing an AI assurance partner want to trust how its founders think about risk. A few clear posts on testing and governing agents would show that before the first call.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nOpen to a quick call?'),
+    'Joe Fioti': ('Hiring for Luminal',
+        "Hi Joe,\n\nCongrats on the $25M Series A with Standard Capital.\n\nYour headline says you're hiring GPU and compiler engineers, some of the hardest people to recruit. Engineers like that tend to follow founders who explain hard ideas in public.\n\nWe help technical founders post on LinkedIn consistently, from positioning to weekly posts.\n\nWorth a 15-minute call next week?"),
 }
 
 

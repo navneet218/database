@@ -4393,3 +4393,59 @@ Follow-up, 5 days later on the same thread:
 > Gliped | LinkedIn personal branding for founders
 > 
 > Not relevant? Reply "no" and I won't follow up.
+
+## Batch 17
+
+### Dhruv Kohli, Boba Bhai (India)
+**Subject:** Boba Bhai after Shark Tank
+
+> Hi Dhruv,
+> 
+> Congrats on the $18M round with Left Lane, Titan and BIG Capital.
+> 
+> Shark Tank put Boba Bhai in front of a huge audience. Keeping that attention through steady posts, while running 90 outlets, is where most founders stall.
+> 
+> We run founder LinkedIn presence end to end, so it keeps going without taking your week.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Apoorva Kumar, Disseqt AI (India)
+**Subject:** Disseqt's new round
+
+> Hi Apoorva,
+> 
+> Congrats on the $8M round led by Gresham House.
+> 
+> Enterprises choosing an AI assurance partner want to trust how its founders think about risk. A few clear posts on testing and governing agents would show that before the first call.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Joe Fioti, Luminal (US)
+**Subject:** Hiring for Luminal
+
+> Hi Joe,
+> 
+> Congrats on the $25M Series A with Standard Capital.
+> 
+> Your headline says you're hiring GPU and compiler engineers, some of the hardest people to recruit. Engineers like that tend to follow founders who explain hard ideas in public.
+> 
+> We help technical founders post on LinkedIn consistently, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.

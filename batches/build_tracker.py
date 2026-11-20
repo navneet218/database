@@ -1,4 +1,4 @@
-"""Build Gliped_Outreach_Tracker.xlsx from batch 01 (markdown + CSV), batch 02 (batch02_data.py), batch 03 (batch03_data.py), batch 04 (batch04_data.py), batch 05 (batch05_data.py), batch 06 (batch06_data.py), batch 07 (batch07_data.py), batch 08 (batch08_data.py), batch 09 (batch09_data.py), batch 10 (batch10_data.py), batch 11 (batch11_data.py), batch 12 (batch12_data.py), batch 13 (batch13_data.py), batch 14 (batch14_data.py), batch 15 (batch15_data.py) and batch 16 (batch16_data.py).
+"""Build Gliped_Outreach_Tracker.xlsx from batch 01 (markdown + CSV), batch 02 (batch02_data.py), batch 03 (batch03_data.py), batch 04 (batch04_data.py), batch 05 (batch05_data.py), batch 06 (batch06_data.py), batch 07 (batch07_data.py), batch 08 (batch08_data.py), batch 09 (batch09_data.py), batch 10 (batch10_data.py), batch 11 (batch11_data.py), batch 12 (batch12_data.py), batch 13 (batch13_data.py), batch 14 (batch14_data.py), batch 15 (batch15_data.py), batch 16 (batch16_data.py) and batch 17 (batch17_data.py).
 
 Run from the batches/ folder:  python3 build_tracker.py
 """
@@ -27,6 +27,7 @@ import batch13_data as b13
 import batch14_data as b14
 import batch15_data as b15
 import batch16_data as b16
+import batch17_data as b17
 import emails_data as em
 
 # Verified work emails found via Prospeo (name,email,status,method,note)
@@ -94,7 +95,7 @@ def trigger_month(l):
     return ""
 
 
-leads = parse_batch01() + from_module(b2) + from_module(b3) + from_module(b4) + from_module(b5) + from_module(b6) + from_module(b7) + from_module(b8) + from_module(b9) + from_module(b10) + from_module(b11) + from_module(b12) + from_module(b13) + from_module(b14) + from_module(b15) + from_module(b16)
+leads = parse_batch01() + from_module(b2) + from_module(b3) + from_module(b4) + from_module(b5) + from_module(b6) + from_module(b7) + from_module(b8) + from_module(b9) + from_module(b10) + from_module(b11) + from_module(b12) + from_module(b13) + from_module(b14) + from_module(b15) + from_module(b16) + from_module(b17)
 for i, l in enumerate(leads, 1):
     l["id"] = f"G{i:03d}"
 
