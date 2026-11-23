@@ -4449,3 +4449,77 @@ Follow-up, 5 days later on the same thread:
 > Gliped | LinkedIn personal branding for founders
 > 
 > Not relevant? Reply "no" and I won't follow up.
+
+## Batch 18
+
+### Satvik Kapoor, Morsa (India)
+**Subject:** Morsa on the shop floor
+
+> Hi Satvik,
+> 
+> Congrats on the pre-seed with Jackson Square Ventures.
+> 
+> Factory owners trust what they can see working. Short posts on what Morsa catches inside a plant like J4S would do more than a pitch deck.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Harshavardhan Thirupathi, CountAI (India)
+**Subject:** CountAI's seed round
+
+> Hi Harshavardhan,
+> 
+> Congrats on the seed round led by Equirus InnovateX.
+> 
+> Mill owners buy quality systems from people they trust. A few posts on what CountAI catches on real production lines would build that trust as you move past textiles.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Open to a quick call?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Sisi Song, Everful (US)
+**Subject:** Everful's Series A
+
+> Hi Sisi,
+> 
+> Congrats on the $48.5M Series A with Vertex and January Capital.
+> 
+> Buyers in the US and Europe are meeting Everful for the first time, and a world model of supply and demand takes some explaining. A founder voice on LinkedIn is the easiest way to do that.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Amit Maheshwari, PromptPath (US)
+**Subject:** PromptPath's Series A
+
+> Hi Amit,
+> 
+> Congrats on the $12M Series A led by FM Capital and Armory Square.
+> 
+> Dealer principals tend to buy what other dealers talk about. Sharing what PromptPath hears in dealership conversations would put you in those conversations.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.

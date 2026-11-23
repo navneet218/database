@@ -520,6 +520,15 @@ EMAILS = {
         'Hi Apoorva,\n\nCongrats on the $8M round led by Gresham House.\n\nEnterprises choosing an AI assurance partner want to trust how its founders think about risk. A few clear posts on testing and governing agents would show that before the first call.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nOpen to a quick call?'),
     'Joe Fioti': ('Hiring for Luminal',
         "Hi Joe,\n\nCongrats on the $25M Series A with Standard Capital.\n\nYour headline says you're hiring GPU and compiler engineers, some of the hardest people to recruit. Engineers like that tend to follow founders who explain hard ideas in public.\n\nWe help technical founders post on LinkedIn consistently, from positioning to weekly posts.\n\nWorth a 15-minute call next week?"),
+    # ---------------- Batch 18 (23 Nov 2026) ----------------
+    'Satvik Kapoor': ('Morsa on the shop floor',
+        'Hi Satvik,\n\nCongrats on the pre-seed with Jackson Square Ventures.\n\nFactory owners trust what they can see working. Short posts on what Morsa catches inside a plant like J4S would do more than a pitch deck.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?'),
+    'Harshavardhan Thirupathi': ("CountAI's seed round",
+        'Hi Harshavardhan,\n\nCongrats on the seed round led by Equirus InnovateX.\n\nMill owners buy quality systems from people they trust. A few posts on what CountAI catches on real production lines would build that trust as you move past textiles.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nOpen to a quick call?'),
+    'Sisi Song': ("Everful's Series A",
+        'Hi Sisi,\n\nCongrats on the $48.5M Series A with Vertex and January Capital.\n\nBuyers in the US and Europe are meeting Everful for the first time, and a world model of supply and demand takes some explaining. A founder voice on LinkedIn is the easiest way to do that.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
+    'Amit Maheshwari': ("PromptPath's Series A",
+        'Hi Amit,\n\nCongrats on the $12M Series A led by FM Capital and Armory Square.\n\nDealer principals tend to buy what other dealers talk about. Sharing what PromptPath hears in dealership conversations would put you in those conversations.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
 }
 
 
