@@ -4523,3 +4523,41 @@ Follow-up, 5 days later on the same thread:
 > Gliped | LinkedIn personal branding for founders
 > 
 > Not relevant? Reply "no" and I won't follow up.
+
+## Batch 19
+
+### Muhannad Tobal, InvoiceQ (MENA)
+**Subject:** InvoiceQ's Series A
+
+> Hi Muhannad,
+> 
+> Congrats on the $5M Series A led by Manara and Next Ventures.
+> 
+> Finance teams across the Gulf are choosing e-invoicing vendors as the mandates arrive. A CEO with your finance background explaining the rules plainly would reach them before the sales team does.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Neelima Rustagi, Metano (US)
+**Subject:** Metano out of stealth
+
+> Hi Neelima,
+> 
+> Congrats on the $12M seed with Sierra Ventures and coming out of stealth.
+> 
+> CISOs meeting Metano for the first time will look at who is behind it. Your years in security make a strong case, and a steady voice on LinkedIn would put it in front of them.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.

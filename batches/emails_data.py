@@ -529,6 +529,11 @@ EMAILS = {
         'Hi Sisi,\n\nCongrats on the $48.5M Series A with Vertex and January Capital.\n\nBuyers in the US and Europe are meeting Everful for the first time, and a world model of supply and demand takes some explaining. A founder voice on LinkedIn is the easiest way to do that.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
     'Amit Maheshwari': ("PromptPath's Series A",
         'Hi Amit,\n\nCongrats on the $12M Series A led by FM Capital and Armory Square.\n\nDealer principals tend to buy what other dealers talk about. Sharing what PromptPath hears in dealership conversations would put you in those conversations.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
+    # ---------------- Batch 19 (24 Nov 2026) ----------------
+    'Muhannad Tobal': ("InvoiceQ's Series A",
+        'Hi Muhannad,\n\nCongrats on the $5M Series A led by Manara and Next Ventures.\n\nFinance teams across the Gulf are choosing e-invoicing vendors as the mandates arrive. A CEO with your finance background explaining the rules plainly would reach them before the sales team does.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
+    'Neelima Rustagi': ('Metano out of stealth',
+        'Hi Neelima,\n\nCongrats on the $12M seed with Sierra Ventures and coming out of stealth.\n\nCISOs meeting Metano for the first time will look at who is behind it. Your years in security make a strong case, and a steady voice on LinkedIn would put it in front of them.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
 }
 
 
