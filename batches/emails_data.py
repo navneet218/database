@@ -534,6 +534,15 @@ EMAILS = {
         'Hi Muhannad,\n\nCongrats on the $5M Series A led by Manara and Next Ventures.\n\nFinance teams across the Gulf are choosing e-invoicing vendors as the mandates arrive. A CEO with your finance background explaining the rules plainly would reach them before the sales team does.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
     'Neelima Rustagi': ('Metano out of stealth',
         'Hi Neelima,\n\nCongrats on the $12M seed with Sierra Ventures and coming out of stealth.\n\nCISOs meeting Metano for the first time will look at who is behind it. Your years in security make a strong case, and a steady voice on LinkedIn would put it in front of them.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
+    # ---------------- Batch 20 (25 Nov 2026) ----------------
+    'Delip Thomas': ("Cosine's new round",
+        'Hi Delip,\n\nCongrats on the Rs 22.36 Cr round led by Avaana Capital.\n\nRobotics builders and researchers follow founders who show the work. Posts on how Cosine designs and makes its joints in India would reach them directly.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?'),
+    'Keshava Murthy': ("Matters.AI's pre-Series A",
+        'Hi Keshava,\n\nCongrats on the pre-Series A, so soon after the seed.\n\nCISOs choosing a data security vendor want to know how its founders think about risk. A steady founder voice on LinkedIn would answer that before the first meeting.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
+    'Ayman Essawy': ('Connect Money in Saudi',
+        'Hi Ayman,\n\nCongrats on the $3.5M pre-Series A and the move into Saudi Arabia and Morocco.\n\nBanks and partners in new markets will look at who is behind Connect Money. Your track record with Dsquares and Lucky ONE is a strong story, and LinkedIn is where they would see it.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
+    'Srinivas Kamadi': ("AidenAI's Series A",
+        'Hi Srinivas,\n\nCongrats on the $32M Series A led by A91 Partners.\n\nEnterprise buyers pick AI vendors whose leaders they trust. A few clear posts on how AidenAI works inside real companies would build that trust before the first call.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
 }
 
 

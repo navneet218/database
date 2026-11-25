@@ -4561,3 +4561,77 @@ Follow-up, 5 days later on the same thread:
 > Gliped | LinkedIn personal branding for founders
 > 
 > Not relevant? Reply "no" and I won't follow up.
+
+## Batch 20
+
+### Delip Thomas, Cosine Robots (India)
+**Subject:** Cosine's new round
+
+> Hi Delip,
+> 
+> Congrats on the Rs 22.36 Cr round led by Avaana Capital.
+> 
+> Robotics builders and researchers follow founders who show the work. Posts on how Cosine designs and makes its joints in India would reach them directly.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Keshava Murthy, Matters.AI (India)
+**Subject:** Matters.AI's pre-Series A
+
+> Hi Keshava,
+> 
+> Congrats on the pre-Series A, so soon after the seed.
+> 
+> CISOs choosing a data security vendor want to know how its founders think about risk. A steady founder voice on LinkedIn would answer that before the first meeting.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Ayman Essawy, Connect Money (MENA)
+**Subject:** Connect Money in Saudi
+
+> Hi Ayman,
+> 
+> Congrats on the $3.5M pre-Series A and the move into Saudi Arabia and Morocco.
+> 
+> Banks and partners in new markets will look at who is behind Connect Money. Your track record with Dsquares and Lucky ONE is a strong story, and LinkedIn is where they would see it.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Srinivas Kamadi, AidenAI (US)
+**Subject:** AidenAI's Series A
+
+> Hi Srinivas,
+> 
+> Congrats on the $32M Series A led by A91 Partners.
+> 
+> Enterprise buyers pick AI vendors whose leaders they trust. A few clear posts on how AidenAI works inside real companies would build that trust before the first call.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
