@@ -543,6 +543,13 @@ EMAILS = {
         'Hi Ayman,\n\nCongrats on the $3.5M pre-Series A and the move into Saudi Arabia and Morocco.\n\nBanks and partners in new markets will look at who is behind Connect Money. Your track record with Dsquares and Lucky ONE is a strong story, and LinkedIn is where they would see it.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
     'Srinivas Kamadi': ("AidenAI's Series A",
         'Hi Srinivas,\n\nCongrats on the $32M Series A led by A91 Partners.\n\nEnterprise buyers pick AI vendors whose leaders they trust. A few clear posts on how AidenAI works inside real companies would build that trust before the first call.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
+    # ---------------- Batch 21 (26 Nov 2026) ----------------
+    'Srikanth Subramanian': ("Ionic Wealth's next phase",
+        'Hi Srikanth,\n\nCongrats on the new funding from Angel One and the founding families.\n\nHNI families in tier 2 and 3 cities pick advisers they feel they know. A steady founder voice on LinkedIn would give them that before the first meeting.\n\nWe build founder brands on LinkedIn and work alongside in-house comms teams.\n\nWorth a 15-minute call next week?'),
+    'Abdulrahman Bajaber': ("009's pre-seed",
+        "Hi Abdulrahman,\n\nCongrats on the $1.4M pre-seed led by Outliers Venture Capital.\n\nIndustrial and government buyers in the Kingdom trust people before products. A few posts on what 009's agents do in real operations would start those conversations early.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?"),
+    'Dan Coster': ("Zipher's raise",
+        "Hi Dan,\n\nCongrats on the $53M across seed and Series A.\n\nData leaders struggling with compute costs are exactly who should hear how Zipher thinks. You've started explaining it in interviews; LinkedIn is where those leaders would see it every week.\n\nWe turn founders' interviews into a steady LinkedIn presence.\n\nWorth a 15-minute call next week?"),
 }
 
 

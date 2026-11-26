@@ -4635,3 +4635,59 @@ Follow-up, 5 days later on the same thread:
 > Gliped | LinkedIn personal branding for founders
 > 
 > Not relevant? Reply "no" and I won't follow up.
+
+## Batch 21
+
+### Srikanth Subramanian, Ionic Wealth (India)
+**Subject:** Ionic Wealth's next phase
+
+> Hi Srikanth,
+> 
+> Congrats on the new funding from Angel One and the founding families.
+> 
+> HNI families in tier 2 and 3 cities pick advisers they feel they know. A steady founder voice on LinkedIn would give them that before the first meeting.
+> 
+> We build founder brands on LinkedIn and work alongside in-house comms teams.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Abdulrahman Bajaber, 009 (MENA)
+**Subject:** 009's pre-seed
+
+> Hi Abdulrahman,
+> 
+> Congrats on the $1.4M pre-seed led by Outliers Venture Capital.
+> 
+> Industrial and government buyers in the Kingdom trust people before products. A few posts on what 009's agents do in real operations would start those conversations early.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Want the 3-point teardown instead?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Dan Coster, Zipher (US)
+**Subject:** Zipher's raise
+
+> Hi Dan,
+> 
+> Congrats on the $53M across seed and Series A.
+> 
+> Data leaders struggling with compute costs are exactly who should hear how Zipher thinks. You've started explaining it in interviews; LinkedIn is where those leaders would see it every week.
+> 
+> We turn founders' interviews into a steady LinkedIn presence.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
