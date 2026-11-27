@@ -550,6 +550,11 @@ EMAILS = {
         "Hi Abdulrahman,\n\nCongrats on the $1.4M pre-seed led by Outliers Venture Capital.\n\nIndustrial and government buyers in the Kingdom trust people before products. A few posts on what 009's agents do in real operations would start those conversations early.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWant the 3-point teardown instead?"),
     'Dan Coster': ("Zipher's raise",
         "Hi Dan,\n\nCongrats on the $53M across seed and Series A.\n\nData leaders struggling with compute costs are exactly who should hear how Zipher thinks. You've started explaining it in interviews; LinkedIn is where those leaders would see it every week.\n\nWe turn founders' interviews into a steady LinkedIn presence.\n\nWorth a 15-minute call next week?"),
+    # ---------------- Batch 22 (27 Nov 2026) ----------------
+    'Gaurav Mittal': ('Vegapay and credit on UPI',
+        'Hi Gaurav,\n\nCongrats on the new funding for Vegapay.\n\nBank product teams pick infrastructure partners they trust. With your years at Mastercard, Amex and Zeta, a steady voice on credit on UPI would reach them before the sales team does.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
+    'Yash Sultania': ("XEBO.ai's Series A",
+        'Hi Yash,\n\nCongrats on the $10.5M Series A with Emirates Growth Fund.\n\nRaising a first institutional round after years of building is a story CX leaders would want to hear. Sharing what XEBO.ai learns from customer feedback would keep them following.\n\nWe build founder brands on LinkedIn, from positioning to weekly posts.\n\nWorth a 15-minute call next week?'),
 }
 
 

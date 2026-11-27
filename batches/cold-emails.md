@@ -4691,3 +4691,41 @@ Follow-up, 5 days later on the same thread:
 > Gliped | LinkedIn personal branding for founders
 > 
 > Not relevant? Reply "no" and I won't follow up.
+
+## Batch 22
+
+### Gaurav Mittal, Vegapay (India)
+**Subject:** Vegapay and credit on UPI
+
+> Hi Gaurav,
+> 
+> Congrats on the new funding for Vegapay.
+> 
+> Bank product teams pick infrastructure partners they trust. With your years at Mastercard, Amex and Zeta, a steady voice on credit on UPI would reach them before the sales team does.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
+
+### Yash Sultania, XEBO.ai (MENA)
+**Subject:** XEBO.ai's Series A
+
+> Hi Yash,
+> 
+> Congrats on the $10.5M Series A with Emirates Growth Fund.
+> 
+> Raising a first institutional round after years of building is a story CX leaders would want to hear. Sharing what XEBO.ai learns from customer feedback would keep them following.
+> 
+> We build founder brands on LinkedIn, from positioning to weekly posts.
+> 
+> Worth a 15-minute call next week?
+> 
+> Prabal
+> Gliped | LinkedIn personal branding for founders
+> 
+> Not relevant? Reply "no" and I won't follow up.
